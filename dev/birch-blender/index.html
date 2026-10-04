@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#f5f3eb"><title>Берёза · исследование формы</title>  <script type="module" crossorigin src="./assets/index-DObnBIbg.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-DbSjohGB.css">
+</head>
+<body>
+  <main id="app">
+    <section id="stage" aria-label="Трёхмерная берёза">
+      <header><a class="eyebrow" href="../../">ТИХИЙ САД / МАСТЕРСКАЯ</a><h1>Берёза</h1><p>Исследование формы и движения</p></header>
+      <div id="viewport"></div>
+      <p id="status" role="status">Загружаем берёзу…</p>
+      <div class="stage-footer"><span>Поверните пальцем · приблизьте двумя</span><span class="badge">ПРОБА 01</span></div>
+    </section>
+    <aside>
+      <div class="panel-title"><span class="eyebrow">BETULA PENDULA</span><span class="dot"></span></div>
+      <h2>Посмотрите со всех сторон</h2><p class="intro">Мелкая листва, гибкие побеги и немного ветра.</p>
+      <div class="views" role="group" aria-label="Ракурс">
+        <button data-view="front" aria-pressed="true">Спереди</button><button data-view="side" aria-pressed="false">Сбоку</button><button data-view="back" aria-pressed="false">Сзади</button><button data-view="top" aria-pressed="false">Сверху</button>
+      </div>
+      <button id="detail" class="wide">Приблизить листву <span>↗</span></button>
+      <div class="divider"></div>
+      <div class="row"><h3>Ветер</h3><output id="wind-label">Лёгкий</output></div>
+      <label class="sr-only" for="wind">Сила ветра</label><input id="wind" type="range" min="0" max="1" step="0.01" value="0.32">
+      <div class="scale"><span>Штиль</span><span>Сильный</span></div>
+      <label class="row direction" for="direction">Направление <output id="direction-label">45°</output></label><input id="direction" type="range" min="0" max="360" step="5" value="45">
+      <div class="actions"><button id="pause" aria-pressed="false">Пауза</button><button id="reset">Сбросить вид</button></div>
+      <div class="divider"></div>
+      <button id="reference-toggle" class="wide" aria-expanded="false">Принятый образ <span>↗</span></button>
+      <div id="reference" hidden><img data-src="./assets/reference.png" alt="Одобренный образ берёзы с мелкими листьями на свисающих веточках"><p>Художественный ориентир</p></div>
+      <details id="metrics"><summary>Производительность</summary><dl><div><dt>Кадров/с</dt><dd id="fps">—</dd></div><div><dt>Треугольники дерева</dt><dd id="triangles">—</dd></div><div><dt>Вызовы · основной проход</dt><dd id="calls">—</dd></div><div><dt>Ассеты дерева</dt><dd id="bytes">—</dd></div><div><dt>Листья</dt><dd id="leaves">—</dd></div><div><dt>Разрешение</dt><dd id="resolution">—</dd></div></dl><p>Цели: 60 FPS на компьютере, 30 FPS на iPhone 13. Показания относятся к текущему устройству.</p></details>
+      <button id="record" class="wide">Записать 6 секунд <span>↓</span></button><a id="recording" hidden download="birch-wind.webm">Скачать запись</a>
+      <p class="footnote">Визуальная проба из Blender.<br>Ветер — художественная анимация.</p>
+    </aside>
+  </main>
+</body></html>
