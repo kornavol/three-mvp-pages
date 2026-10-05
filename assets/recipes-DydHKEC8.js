@@ -1,1 +1,0 @@
-import{I as c,a as t,c as r}from"./render-D0_EJy-V.js";const s={...c,width:6.8,depth:5.2,thickness:.85,rocks:9,decorations:10,decorScale:2,clearing:.5},l={calm:{id:"calm",label:"Тихий остров",defaultSelection:{recipe:"calm",seed:32768,parameters:s},create(e){const a=t(e.seed,e.parameters);return{surface:a,object:r(a)}}}},d=l.calm.defaultSelection;export{d as D,l as I};
