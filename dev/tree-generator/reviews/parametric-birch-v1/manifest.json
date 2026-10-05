@@ -1,0 +1,45 @@
+{
+  "status": "awaiting-artistic-review",
+  "date": "2026-10-04",
+  "generator": "parametric-birch-v1",
+  "seeds": [
+    240104,
+    248023,
+    255942,
+    263861,
+    271780,
+    279699,
+    287618,
+    295537,
+    303456,
+    311375,
+    319294,
+    327213
+  ],
+  "parameters": {
+    "height": 4.7,
+    "bend": 0.35,
+    "spread": 1,
+    "crown": 1,
+    "leaf": 1,
+    "branches": 10,
+    "density": 1,
+    "pendant": 1,
+    "palette": "spring"
+  },
+  "checkpoints": [
+    0,
+    0.25,
+    0.5,
+    0.75,
+    1
+  ],
+  "captureViewport": [
+    1280,
+    720
+  ],
+  "videoReview": "extracted frames only",
+  "tests": 318,
+  "lintErrors": 0,
+  "lintWarnings": 18
+}
