@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "generator": "parametric-birch-v1",
+  "species": "birch",
+  "model": "parametric-birch-v1",
+  "name": "Берёза · эталон",
+  "seed": 240104,
+  "parameters": {
+    "height": 4.7,
+    "bend": 0.35,
+    "spread": 1,
+    "crown": 1,
+    "leaf": 1,
+    "palette": "spring",
+    "branches": 10,
+    "density": 1,
+    "pendant": 1
+  },
+  "scenario": {
+    "version": 1,
+    "model": "parametric-birch-v1",
+    "name": "Рост параметрической берёзы",
+    "stages": [
+      {
+        "height": 0.045,
+        "thickness": 0.022,
+        "spread": 0.035,
+        "leaf": 0.6
+      },
+      {
+        "height": 0.13,
+        "thickness": 0.045,
+        "spread": 0.1,
+        "leaf": 0.7
+      },
+      {
+        "height": 0.24,
+        "thickness": 0.085,
+        "spread": 0.21,
+        "leaf": 0.78
+      },
+      {
+        "height": 0.37,
+        "thickness": 0.16,
+        "spread": 0.35,
+        "leaf": 0.83
+      },
+      {
+        "height": 0.49,
+        "thickness": 0.29,
+        "spread": 0.49,
+        "leaf": 0.88
+      },
+      {
+        "height": 0.62,
+        "thickness": 0.46,
+        "spread": 0.64,
+        "leaf": 0.92
+      },
+      {
+        "height": 0.72,
+        "thickness": 0.6,
+        "spread": 0.74,
+        "leaf": 0.94
+      },
+      {
+        "height": 0.82,
+        "thickness": 0.74,
+        "spread": 0.83,
+        "leaf": 0.96
+      },
+      {
+        "height": 0.91,
+        "thickness": 0.88,
+        "spread": 0.92,
+        "leaf": 0.98
+      },
+      {
+        "height": 1,
+        "thickness": 1,
+        "spread": 1,
+        "leaf": 1
+      }
+    ],
+    "timing": {
+      "primary": [
+        1.9,
+        4.6
+      ],
+      "secondary": [
+        2.6,
+        5.1
+      ],
+      "pendant": [
+        3,
+        5.6
+      ],
+      "leaves": [
+        3,
+        6
+      ]
+    }
+  }
+}
