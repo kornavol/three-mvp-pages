@@ -1,0 +1,80 @@
+{
+  "models": {
+    "source": {
+      "file": "before.glb",
+      "bytes": 28486028,
+      "triangles": 180417,
+      "bones": 28,
+      "clips": [
+        "Big_Wave_Hello",
+        "Casual_Walk",
+        "Confident_Strut",
+        "KneeProbe_Left_0",
+        "KneeProbe_Left_120",
+        "KneeProbe_Left_45",
+        "KneeProbe_Left_90",
+        "KneeProbe_Left_Sweep",
+        "Look_Back_and_Sit",
+        "Running",
+        "Sit_Cross_Legged_on_Floor",
+        "Walk_Turn_Left",
+        "Walk_Turn_Right",
+        "Walking",
+        "Wave_for_Help_1"
+      ],
+      "sha256": "03f9b4ec00eb02c4828d3951090de001f3329aac8fd256b7b32f90da0831431a"
+    },
+    "before": {
+      "file": "after.glb",
+      "bytes": 28486016,
+      "triangles": 180417,
+      "bones": 28,
+      "clips": [
+        "Big_Wave_Hello",
+        "Casual_Walk",
+        "Confident_Strut",
+        "KneeProbe_Left_0",
+        "KneeProbe_Left_120",
+        "KneeProbe_Left_45",
+        "KneeProbe_Left_90",
+        "KneeProbe_Left_Sweep",
+        "Look_Back_and_Sit",
+        "Running",
+        "Sit_Cross_Legged_on_Floor",
+        "Walk_Turn_Left",
+        "Walk_Turn_Right",
+        "Walking",
+        "Wave_for_Help_1"
+      ],
+      "sha256": "5ef282d2fee8ba0172368f87b4031dd0b0c8c34dcaabbaca0ea06b121f6a900d"
+    },
+    "after": {
+      "file": "soles-01.glb",
+      "bytes": 28486016,
+      "triangles": 180417,
+      "bones": 28,
+      "clips": [
+        "Big_Wave_Hello",
+        "Casual_Walk",
+        "Confident_Strut",
+        "KneeProbe_Left_0",
+        "KneeProbe_Left_120",
+        "KneeProbe_Left_45",
+        "KneeProbe_Left_90",
+        "KneeProbe_Left_Sweep",
+        "Look_Back_and_Sit",
+        "Running",
+        "Sit_Cross_Legged_on_Floor",
+        "Walk_Turn_Left",
+        "Walk_Turn_Right",
+        "Walking",
+        "Wave_for_Help_1"
+      ],
+      "sha256": "12095d769ff733996be9eab344b6c374f019af130d44b8a0d0b38e6d7ec44928"
+    }
+  },
+  "source": "BoyAnimation/pilot",
+  "status": "Knee accepted; sole trial frozen provisionally; next step optimization in 3MVP",
+  "sourceActions": 10,
+  "diagnosticActions": 5
+}

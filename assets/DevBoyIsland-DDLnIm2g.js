@@ -1,1 +1,0 @@
-import{j as t}from"./index-EjDinGyO.js";const s="/three-mvp-pages/assets/ostrov_boy-Cf919kst.html",e=new URL(s,window.location.href);e.search=window.location.search;function r(){return t.jsx("iframe",{title:"Aeria — остров с мальчиком и птицами",src:e.href,allowFullScreen:!0,style:{position:"fixed",inset:0,width:"100%",height:"100%",border:0}})}export{r as default};
