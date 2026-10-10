@@ -1,1 +1,0 @@
-import{I as e}from"./render-ZTG5n3CN.js";const c={...e,width:6.8,depth:5.2,thickness:.85,rocks:9,decorations:10,decorScale:2,clearing:.5},a={calm:{defaultSelection:{recipe:"calm",seed:32768,parameters:c}}},o=a.calm.defaultSelection;export{o as D};
