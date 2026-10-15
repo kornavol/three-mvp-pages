@@ -1,0 +1,46 @@
+{
+  "scale": 2,
+  "island": {
+    "file": "island.webp",
+    "w": 1536,
+    "h": 1024
+  },
+  "far": {
+    "file": "far.webp",
+    "w": 1536,
+    "h": 1024,
+    "horizon": 431
+  },
+  "clouds": [
+    {
+      "file": "cloud-1.webp",
+      "w": 234,
+      "h": 114
+    },
+    {
+      "file": "cloud-2.webp",
+      "w": 452,
+      "h": 210
+    },
+    {
+      "file": "cloud-3.webp",
+      "w": 375,
+      "h": 152
+    },
+    {
+      "file": "cloud-4.webp",
+      "w": 492,
+      "h": 202
+    },
+    {
+      "file": "cloud-5.webp",
+      "w": 512,
+      "h": 110
+    },
+    {
+      "file": "cloud-6.webp",
+      "w": 488,
+      "h": 196
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "world": {
+    "w": 3072,
+    "h": 2048
+  },
+  "core": {
+    "x0": 1090,
+    "y0": 110,
+    "x1": 2240,
+    "y1": 1480
+  },
+  "bounds": {
+    "x0": 60,
+    "y0": 0,
+    "x1": 3060,
+    "y1": 2030
+  },
+  "horizon": 850,
+  "layers": {
+    "far": {
+      "file": "far.webp",
+      "horizon": 431,
+      "scale": 2,
+      "parallax": 0.6
+    },
+    "island": {
+      "file": "step2/base-island.webp",
+      "scale": 1
+    },
+    "clouds": {
+      "files": [
+        "cloud-1.webp",
+        "cloud-2.webp",
+        "cloud-3.webp",
+        "cloud-6.webp"
+      ],
+      "scale": 1.6,
+      "parallax": 0.85,
+      "y0": 80,
+      "y1": 620,
+      "speed": 10,
+      "count": 6
+    }
+  },
+  "lights": [
+    {
+      "name": "lantern",
+      "x": 1246,
+      "y": 841,
+      "radius": 300,
+      "strength": 1
+    },
+    {
+      "name": "chest",
+      "x": 2020,
+      "y": 1040,
+      "radius": 170,
+      "strength": 0.7
+    }
+  ],
+  "meadow": [
+    {
+      "x": 1200,
+      "y": 1090
+    },
+    {
+      "x": 1290,
+      "y": 1030
+    },
+    {
+      "x": 1500,
+      "y": 985
+    },
+    {
+      "x": 1760,
+      "y": 985
+    },
+    {
+      "x": 1980,
+      "y": 1010
+    },
+    {
+      "x": 2180,
+      "y": 1070
+    },
+    {
+      "x": 2250,
+      "y": 1170
+    },
+    {
+      "x": 2220,
+      "y": 1290
+    },
+    {
+      "x": 2000,
+      "y": 1330
+    },
+    {
+      "x": 1700,
+      "y": 1345
+    },
+    {
+      "x": 1400,
+      "y": 1330
+    },
+    {
+      "x": 1230,
+      "y": 1270
+    },
+    {
+      "x": 1180,
+      "y": 1170
+    }
+  ],
+  "fireflies": {
+    "x0": 220,
+    "y0": 760,
+    "x1": 2900,
+    "y1": 1260,
+    "count": 40
+  },
+  "game": {
+    "world": {
+      "w": 3072,
+      "h": 2048
+    },
+    "treeBase": {
+      "x": 1620,
+      "y": 1000
+    },
+    "meadow": [
+      {
+        "x": 1200,
+        "y": 1090
+      },
+      {
+        "x": 1290,
+        "y": 1030
+      },
+      {
+        "x": 1500,
+        "y": 985
+      },
+      {
+        "x": 1760,
+        "y": 985
+      },
+      {
+        "x": 1980,
+        "y": 1010
+      },
+      {
+        "x": 2180,
+        "y": 1070
+      },
+      {
+        "x": 2250,
+        "y": 1170
+      },
+      {
+        "x": 2220,
+        "y": 1290
+      },
+      {
+        "x": 2000,
+        "y": 1330
+      },
+      {
+        "x": 1700,
+        "y": 1345
+      },
+      {
+        "x": 1400,
+        "y": 1330
+      },
+      {
+        "x": 1230,
+        "y": 1270
+      },
+      {
+        "x": 1180,
+        "y": 1170
+      }
+    ],
+    "boyStart": {
+      "x": 1450,
+      "y": 1230
+    },
+    "depth": {
+      "y0": 985,
+      "y1": 1340,
+      "s0": 0.8,
+      "s1": 1.0
+    },
+    "chest": {
+      "x": 2020,
+      "y": 1130
+    },
+    "starPlaces": [
+      {
+        "x": 1300,
+        "y": 1180
+      },
+      {
+        "x": 1430,
+        "y": 1270
+      },
+      {
+        "x": 1560,
+        "y": 1150
+      },
+      {
+        "x": 1700,
+        "y": 1280
+      },
+      {
+        "x": 1820,
+        "y": 1180
+      },
+      {
+        "x": 1950,
+        "y": 1270
+      },
+      {
+        "x": 2130,
+        "y": 1220
+      },
+      {
+        "x": 1520,
+        "y": 1060
+      }
+    ],
+    "props": {
+      "prop-lantern": {
+        "x": 1163,
+        "y": 707
+      },
+      "prop-bench": {
+        "x": 1290,
+        "y": 960
+      }
+    },
+    "perches": [
+      {
+        "x": 1312,
+        "y": 946
+      },
+      {
+        "x": 1346,
+        "y": 945
+      },
+      {
+        "x": 1982,
+        "y": 1037
+      },
+      {
+        "x": 2040,
+        "y": 1048
+      },
+      {
+        "x": 1177,
+        "y": 755
+      }
+    ],
+    "decor": [
+      {
+        "clip": "decor-pond",
+        "x": 800,
+        "y": 1235,
+        "scale": 0.9,
+        "ground": true
+      },
+      {
+        "clip": "decor-birch-a",
+        "x": 480,
+        "y": 1070
+      },
+      {
+        "clip": "decor-birch-b",
+        "x": 640,
+        "y": 1010
+      },
+      {
+        "clip": "decor-tree-b",
+        "x": 890,
+        "y": 985,
+        "scale": 0.95
+      },
+      {
+        "clip": "decor-reeds-a",
+        "x": 560,
+        "y": 1120
+      },
+      {
+        "clip": "decor-reeds-b",
+        "x": 700,
+        "y": 1085,
+        "scale": 0.9
+      },
+      {
+        "clip": "decor-reeds-c",
+        "x": 600,
+        "y": 1220,
+        "flip": true,
+        "scale": 0.9
+      },
+      {
+        "clip": "decor-duck-house",
+        "x": 1075,
+        "y": 1160
+      },
+      {
+        "clip": "decor-birdhouse",
+        "x": 455,
+        "y": 1175
+      },
+      {
+        "clip": "decor-bush-a",
+        "x": 1060,
+        "y": 1010
+      },
+      {
+        "clip": "decor-bush-b",
+        "x": 400,
+        "y": 1125,
+        "scale": 0.85
+      },
+      {
+        "clip": "decor-boulder-b",
+        "x": 1090,
+        "y": 1325
+      },
+      {
+        "clip": "decor-flowers-daisy",
+        "x": 980,
+        "y": 1290,
+        "scale": 0.9
+      },
+      {
+        "clip": "decor-lamp",
+        "x": 1215,
+        "y": 1075
+      },
+      {
+        "clip": "decor-bench",
+        "x": 1350,
+        "y": 1060
+      },
+      {
+        "clip": "decor-flowers-pink",
+        "x": 1200,
+        "y": 1300
+      },
+      {
+        "clip": "decor-flowers-yellow",
+        "x": 2190,
+        "y": 1065,
+        "scale": 0.9
+      },
+      {
+        "clip": "decor-flowers-blue",
+        "x": 1480,
+        "y": 1005,
+        "scale": 0.8
+      },
+      {
+        "clip": "decor-tuft-a",
+        "x": 1310,
+        "y": 1350
+      },
+      {
+        "clip": "decor-tuft-b",
+        "x": 1880,
+        "y": 1360,
+        "flip": true
+      },
+      {
+        "clip": "decor-tuft-c",
+        "x": 2230,
+        "y": 1310
+      },
+      {
+        "clip": "decor-tuft-d",
+        "x": 1770,
+        "y": 995,
+        "scale": 0.8
+      },
+      {
+        "clip": "decor-flowers-daisy",
+        "x": 2120,
+        "y": 1345,
+        "scale": 0.85,
+        "flip": true
+      },
+      {
+        "clip": "decor-flowers-pink",
+        "x": 2200,
+        "y": 1290,
+        "scale": 0.8,
+        "flip": true
+      },
+      {
+        "clip": "decor-tree-a",
+        "x": 2470,
+        "y": 1035
+      },
+      {
+        "clip": "decor-birch-b",
+        "x": 2740,
+        "y": 1060,
+        "flip": true,
+        "scale": 0.9
+      },
+      {
+        "clip": "decor-birch-a",
+        "x": 2880,
+        "y": 1120,
+        "scale": 0.85,
+        "flip": true
+      },
+      {
+        "clip": "decor-wall-short",
+        "x": 2700,
+        "y": 1085,
+        "scale": 0.8
+      },
+      {
+        "clip": "decor-mound",
+        "x": 2620,
+        "y": 1140,
+        "scale": 0.9
+      },
+      {
+        "clip": "decor-wall-long",
+        "x": 2520,
+        "y": 1270,
+        "scale": 0.85
+      },
+      {
+        "clip": "decor-bush-a",
+        "x": 2560,
+        "y": 1100,
+        "flip": true,
+        "scale": 0.9
+      },
+      {
+        "clip": "decor-boulder-a",
+        "x": 2360,
+        "y": 1350,
+        "flip": true
+      },
+      {
+        "clip": "decor-boulder-b",
+        "x": 2780,
+        "y": 1265
+      }
+    ]
+  }
+}

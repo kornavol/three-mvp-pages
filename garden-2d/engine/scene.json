@@ -1,0 +1,29 @@
+{
+  "world": { "w": 3072, "h": 2048 },
+  "core": { "x0": 1090, "y0": 110, "x1": 2240, "y1": 1330 },
+  "bounds": { "x0": 60, "y0": 0, "x1": 3060, "y1": 2030 },
+  "horizon": 850,
+  "layers": {
+    "far": { "file": "far.webp", "horizon": 431, "scale": 2, "parallax": 0.6 },
+    "island": { "file": "island.webp", "scale": 2 },
+    "clouds": {
+      "files": ["cloud-1.webp", "cloud-2.webp", "cloud-3.webp", "cloud-6.webp"],
+      "scale": 1.6,
+      "parallax": 0.85,
+      "y0": 80,
+      "y1": 620,
+      "speed": 10,
+      "count": 6
+    }
+  },
+  "lights": [
+    { "name": "lantern", "x": 1214, "y": 812, "radius": 300, "strength": 1 },
+    { "name": "chest", "x": 1932, "y": 1036, "radius": 170, "strength": 0.7 }
+  ],
+  "meadow": [
+    { "x": 1180, "y": 1050 }, { "x": 1280, "y": 970 }, { "x": 1440, "y": 936 }, { "x": 1920, "y": 936 },
+    { "x": 2010, "y": 956 }, { "x": 2120, "y": 1090 }, { "x": 2230, "y": 1220 }, { "x": 2220, "y": 1280 },
+    { "x": 1920, "y": 1296 }, { "x": 1520, "y": 1300 }, { "x": 1280, "y": 1280 }, { "x": 1184, "y": 1224 }
+  ],
+  "fireflies": { "x0": 220, "y0": 760, "x1": 2900, "y1": 1260, "count": 40 }
+}
