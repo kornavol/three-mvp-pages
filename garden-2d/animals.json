@@ -1,0 +1,82 @@
+{
+ "rabbit": {
+  "anchor": 0.905,
+  "scale": 0.5,
+  "hold": [
+   3,
+   4,
+   4,
+   4,
+   3,
+   4,
+   4,
+   4
+  ],
+  "speed": 23.4,
+  "height": 70
+ },
+ "hedgehog": {
+  "anchor": 0.935,
+  "scale": 0.5,
+  "hold": [
+   5,
+   5,
+   5,
+   5,
+   5,
+   5,
+   5,
+   5
+  ],
+  "speed": 23.8,
+  "height": 40
+ },
+ "squirrel": {
+  "anchor": 0.945,
+  "scale": 0.5,
+  "hold": [
+   2,
+   2,
+   2,
+   2,
+   2,
+   2,
+   2,
+   1
+  ],
+  "speed": 129.7,
+  "height": 52
+ },
+ "frog": {
+  "anchor": 0.9375,
+  "scale": 0.5,
+  "hold": [
+   4,
+   4,
+   2,
+   2,
+   2,
+   3,
+   4,
+   5
+  ],
+  "speed": 0.0,
+  "height": 30
+ },
+ "duckling": {
+  "anchor": 0.95,
+  "scale": 0.5,
+  "hold": [
+   1,
+   1,
+   2,
+   1,
+   1,
+   2,
+   1,
+   2
+  ],
+  "speed": 16.7,
+  "height": 36
+ }
+}
