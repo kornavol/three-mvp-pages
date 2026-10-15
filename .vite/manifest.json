@@ -1,0 +1,1256 @@
+{
+  "_AeriaGroundContext-CAHyIgyS.js": {
+    "file": "assets/AeriaGroundContext-CAHyIgyS.js",
+    "name": "AeriaGroundContext",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_BufferResource-DRePCMht.js": {
+    "file": "assets/BufferResource-DRePCMht.js",
+    "name": "BufferResource",
+    "imports": [
+      "_stage-_6t2YQV0.js"
+    ]
+  },
+  "_CanvasPool-udZm980x.js": {
+    "file": "assets/CanvasPool-udZm980x.js",
+    "name": "CanvasPool",
+    "imports": [
+      "_stage-_6t2YQV0.js"
+    ]
+  },
+  "_CloudHint-Ds0i8oxm.js": {
+    "file": "assets/CloudHint-Ds0i8oxm.js",
+    "name": "CloudHint",
+    "imports": [
+      "index.html",
+      "_useStarHarvest-C3rvlvCT.js"
+    ]
+  },
+  "_DevGarden2dWorkshop-D5l7qQQk.css": {
+    "file": "assets/DevGarden2dWorkshop-D5l7qQQk.css",
+    "src": "_DevGarden2dWorkshop-D5l7qQQk.css"
+  },
+  "_DevTreeGenerator-CL6vbiVL.js": {
+    "file": "assets/DevTreeGenerator-CL6vbiVL.js",
+    "name": "DevTreeGenerator",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_OrbitControls-BRlFss5l.js",
+      "_selection-DosOH8k-.js",
+      "_events-9ce18a08.esm-kPyibT-P.js",
+      "_GLTFLoader-24JCs9hj.js",
+      "_wind-gd7lwWwg.js",
+      "_recipes-Z-JmS1rT.js",
+      "_engine-D1WY6WQA.js",
+      "_render-BNq2rhkC.js",
+      "_rotate-ccw-DeXiDXsB.js",
+      "_leaf-CFRpad-l.js",
+      "_sprout-XrWjxjcv.js",
+      "_download-BMKGBMj1.js"
+    ],
+    "dynamicImports": [
+      "src/trees/oak-fg06/runtime.ts",
+      "_render-BNq2rhkC.js",
+      "src/tree-generator/blender/oak-crown.ts",
+      "src/MergedTreeWorkshop.tsx"
+    ],
+    "css": [
+      "assets/DevTreeGenerator-DGQQkpVc.css"
+    ],
+    "assets": [
+      "assets/02-stylized-birch-BKtXb71V.png",
+      "assets/birch-DjWPrwco.png",
+      "assets/oak-ykLDdlNG.png",
+      "assets/front-BVBpju3Q.png",
+      "assets/wood-Du8ENzss.glb",
+      "assets/leaves-BILo1XV5.glb",
+      "assets/instances-Df_hHfTt.json",
+      "assets/sakura-side-on1RDds9.png"
+    ]
+  },
+  "_DevTreeGenerator-DGQQkpVc.css": {
+    "file": "assets/DevTreeGenerator-DGQQkpVc.css",
+    "src": "_DevTreeGenerator-DGQQkpVc.css"
+  },
+  "_Filter-lXrGs8BJ.js": {
+    "file": "assets/Filter-lXrGs8BJ.js",
+    "name": "Filter",
+    "imports": [
+      "_stage-_6t2YQV0.js"
+    ]
+  },
+  "_GLTFLoader-24JCs9hj.js": {
+    "file": "assets/GLTFLoader-24JCs9hj.js",
+    "name": "GLTFLoader"
+  },
+  "_Garden2dEngineView-CDIXfdlE.css": {
+    "file": "assets/Garden2dEngineView-CDIXfdlE.css",
+    "src": "_Garden2dEngineView-CDIXfdlE.css"
+  },
+  "_Garden2dEngineView-CGZ5BxUc.js": {
+    "file": "assets/Garden2dEngineView-CGZ5BxUc.js",
+    "name": "Garden2dEngineView",
+    "imports": [
+      "index.html",
+      "_useStarHarvest-C3rvlvCT.js",
+      "_Modal-Bzy-xGTj.js",
+      "_x-Pq0zn0OM.js",
+      "_download-BMKGBMj1.js",
+      "_package-CKusUTSB.js",
+      "_sprout-XrWjxjcv.js",
+      "_stage-_6t2YQV0.js"
+    ],
+    "css": [
+      "assets/Garden2dEngineView-CDIXfdlE.css",
+      "assets/engine-3nE_Zriw.css"
+    ]
+  },
+  "_GardenScene-BPbW26Jh.js": {
+    "file": "assets/GardenScene-BPbW26Jh.js",
+    "name": "GardenScene",
+    "imports": [
+      "index.html",
+      "_model-BdxT5vnj.js",
+      "_runtime-CnvP0owY.js",
+      "_events-9ce18a08.esm-kPyibT-P.js",
+      "_GLTFLoader-24JCs9hj.js",
+      "_OrbitControls-BRlFss5l.js",
+      "_selection-DosOH8k-.js",
+      "_render-BNq2rhkC.js",
+      "_AeriaGroundContext-CAHyIgyS.js",
+      "_foliage-light-BJpfoV-H.js",
+      "_types-j2oqv0Cf.js"
+    ],
+    "dynamicImports": [
+      "src/trees/oak-fg06/runtime.ts",
+      "src/garden-scene/GardenBirds.tsx",
+      "src/garden-scene/GardenSunny.tsx"
+    ]
+  },
+  "_Modal-Bzy-xGTj.js": {
+    "file": "assets/Modal-Bzy-xGTj.js",
+    "name": "Modal",
+    "imports": [
+      "_sprout-XrWjxjcv.js",
+      "index.html",
+      "_x-Pq0zn0OM.js"
+    ]
+  },
+  "_OrbitControls-BRlFss5l.js": {
+    "file": "assets/OrbitControls-BRlFss5l.js",
+    "name": "OrbitControls",
+    "imports": [
+      "_events-9ce18a08.esm-kPyibT-P.js",
+      "index.html",
+      "_GLTFLoader-24JCs9hj.js"
+    ]
+  },
+  "_PerformancePanel-Cp0UXBnb.js": {
+    "file": "assets/PerformancePanel-Cp0UXBnb.js",
+    "name": "PerformancePanel",
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/PerformancePanel-DcXoBpmk.css"
+    ]
+  },
+  "_PerformancePanel-DcXoBpmk.css": {
+    "file": "assets/PerformancePanel-DcXoBpmk.css",
+    "src": "_PerformancePanel-DcXoBpmk.css"
+  },
+  "_RenderTargetSystem-DtniFm8f.js": {
+    "file": "assets/RenderTargetSystem-DtniFm8f.js",
+    "name": "RenderTargetSystem",
+    "imports": [
+      "_stage-_6t2YQV0.js",
+      "_Filter-lXrGs8BJ.js",
+      "_CanvasPool-udZm980x.js"
+    ]
+  },
+  "_aeria-document-GTBZOtju.js": {
+    "file": "assets/aeria-document-GTBZOtju.js",
+    "name": "aeria-document",
+    "imports": [
+      "_collector-BBOCQ_v2.js"
+    ],
+    "assets": [
+      "assets/ostrov_boy-Bm19IaU4.glb"
+    ]
+  },
+  "_clips--yBidqhF.js": {
+    "file": "assets/clips--yBidqhF.js",
+    "name": "clips"
+  },
+  "_collector-BBOCQ_v2.js": {
+    "file": "assets/collector-BBOCQ_v2.js",
+    "name": "collector"
+  },
+  "_download-BMKGBMj1.js": {
+    "file": "assets/download-BMKGBMj1.js",
+    "name": "download",
+    "imports": [
+      "_sprout-XrWjxjcv.js"
+    ]
+  },
+  "_engine-3nE_Zriw.css": {
+    "file": "assets/engine-3nE_Zriw.css",
+    "src": "_engine-3nE_Zriw.css"
+  },
+  "_engine-D1WY6WQA.js": {
+    "file": "assets/engine-D1WY6WQA.js",
+    "name": "engine"
+  },
+  "_events-9ce18a08.esm-kPyibT-P.js": {
+    "file": "assets/events-9ce18a08.esm-kPyibT-P.js",
+    "name": "events-9ce18a08.esm",
+    "imports": [
+      "index.html",
+      "_GLTFLoader-24JCs9hj.js"
+    ]
+  },
+  "_files-BuygaZMv.js": {
+    "file": "assets/files-BuygaZMv.js",
+    "name": "files"
+  },
+  "_foliage-light-BJpfoV-H.js": {
+    "file": "assets/foliage-light-BJpfoV-H.js",
+    "name": "foliage-light"
+  },
+  "_leaf-CFRpad-l.js": {
+    "file": "assets/leaf-CFRpad-l.js",
+    "name": "leaf",
+    "imports": [
+      "_sprout-XrWjxjcv.js"
+    ]
+  },
+  "_library-D3ODAv0I.js": {
+    "file": "assets/library-D3ODAv0I.js",
+    "name": "library",
+    "imports": [
+      "_GLTFLoader-24JCs9hj.js"
+    ]
+  },
+  "_links-7cf-gin-.js": {
+    "file": "assets/links-7cf-gin-.js",
+    "name": "links",
+    "imports": [
+      "index.html",
+      "_runtime-CnvP0owY.js"
+    ]
+  },
+  "_maximize-2-Bt8M13rO.js": {
+    "file": "assets/maximize-2-Bt8M13rO.js",
+    "name": "maximize-2",
+    "imports": [
+      "_sprout-XrWjxjcv.js"
+    ]
+  },
+  "_model-BdxT5vnj.js": {
+    "file": "assets/model-BdxT5vnj.js",
+    "name": "model",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_package-CKusUTSB.js": {
+    "file": "assets/package-CKusUTSB.js",
+    "name": "package"
+  },
+  "_pageTransitionChoice-tv59eJUM.js": {
+    "file": "assets/pageTransitionChoice-tv59eJUM.js",
+    "name": "pageTransitionChoice"
+  },
+  "_recipes-Z-JmS1rT.js": {
+    "file": "assets/recipes-Z-JmS1rT.js",
+    "name": "recipes",
+    "imports": [
+      "_render-BNq2rhkC.js"
+    ]
+  },
+  "_render-BNq2rhkC.js": {
+    "file": "assets/render-BNq2rhkC.js",
+    "name": "render",
+    "isDynamicEntry": true,
+    "imports": [
+      "_GLTFLoader-24JCs9hj.js"
+    ],
+    "assets": [
+      "assets/wood-BSeWtO-r.glb",
+      "assets/leaves-CFWQox-9.glb",
+      "assets/structure-ot3x1kNA.json",
+      "assets/instances-kG_l0DdJ.json"
+    ]
+  },
+  "_rostokTransition-CpuWKuGN.js": {
+    "file": "assets/rostokTransition-CpuWKuGN.js",
+    "name": "rostokTransition"
+  },
+  "_rotate-ccw-DeXiDXsB.js": {
+    "file": "assets/rotate-ccw-DeXiDXsB.js",
+    "name": "rotate-ccw",
+    "imports": [
+      "_sprout-XrWjxjcv.js"
+    ]
+  },
+  "_runtime-CnvP0owY.js": {
+    "file": "assets/runtime-CnvP0owY.js",
+    "name": "runtime",
+    "imports": [
+      "_render-BNq2rhkC.js",
+      "_GLTFLoader-24JCs9hj.js",
+      "_wind-gd7lwWwg.js",
+      "_selection-DosOH8k-.js"
+    ]
+  },
+  "_selection-DosOH8k-.js": {
+    "file": "assets/selection-DosOH8k-.js",
+    "name": "selection",
+    "imports": [
+      "index.html",
+      "_GLTFLoader-24JCs9hj.js",
+      "_rostokTransition-CpuWKuGN.js",
+      "_render-BNq2rhkC.js"
+    ],
+    "dynamicImports": [
+      "src/island-generator/aeria/runtime.ts"
+    ]
+  },
+  "_sprout-XrWjxjcv.js": {
+    "file": "assets/sprout-XrWjxjcv.js",
+    "name": "sprout",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_stage-_6t2YQV0.js": {
+    "file": "assets/stage-_6t2YQV0.js",
+    "name": "stage",
+    "imports": [
+      "index.html"
+    ],
+    "dynamicImports": [
+      "node_modules/pixi.js/lib/environment-browser/browserAll.mjs",
+      "node_modules/pixi.js/lib/environment-webworker/webworkerAll.mjs",
+      "node_modules/pixi.js/lib/rendering/renderers/gpu/WebGPURenderer.mjs",
+      "node_modules/pixi.js/lib/rendering/renderers/gl/WebGLRenderer.mjs",
+      "node_modules/pixi.js/lib/rendering/renderers/canvas/CanvasRenderer.mjs",
+      "node_modules/pixi.js/lib/scene/text-bitmap/BitmapFont.mjs"
+    ]
+  },
+  "_stroke-CXvsRbPg.css": {
+    "file": "assets/stroke-CXvsRbPg.css",
+    "src": "_stroke-CXvsRbPg.css"
+  },
+  "_stroke-DIrXqUnN.js": {
+    "file": "assets/stroke-DIrXqUnN.js",
+    "name": "stroke",
+    "imports": [
+      "_sprout-XrWjxjcv.js",
+      "index.html",
+      "_rotate-ccw-DeXiDXsB.js",
+      "_Modal-Bzy-xGTj.js",
+      "_model-BdxT5vnj.js",
+      "_x-Pq0zn0OM.js",
+      "_useRostokTransition-DYgsg7x-.js",
+      "_rostokTransition-CpuWKuGN.js"
+    ],
+    "dynamicImports": [
+      "src/RostokScene.tsx"
+    ],
+    "css": [
+      "assets/stroke-CXvsRbPg.css"
+    ],
+    "assets": [
+      "assets/brush-teeth-F0wP4dhV.jpg",
+      "assets/eat-meal-DHwVKhqY.jpg",
+      "assets/get-dressed-CcNc48VN.jpg",
+      "assets/go-to-kindergarten-DbbN1H-W.jpg",
+      "assets/go-to-playground-D115CyNS.jpg",
+      "assets/put-away-toys-C_26BlI5.jpg",
+      "assets/quiet-time-CyC9-tRB.jpg",
+      "assets/read-book-B926CHV-.jpg",
+      "assets/toilet-DKPycA8Y.jpg",
+      "assets/wash-hands-C0SBwkQn.jpg",
+      "assets/greet-teacher-DjuEsOrU.jpg",
+      "assets/play-with-friends-yMYWTFWV.jpg",
+      "assets/custom-task-C1MPzv4n.jpg",
+      "assets/time-morning-BrJ4rpRc.jpg",
+      "assets/time-day-Ca6ZLQhl.jpg",
+      "assets/time-evening-DE8lTq90.jpg",
+      "assets/time-morning-tablet-U4FABD1q.jpg",
+      "assets/time-day-tablet-DckQhf6E.jpg",
+      "assets/time-evening-tablet-BrTU03Mr.jpg",
+      "assets/time-morning-desktop-BPyKEV-3.jpg",
+      "assets/time-day-desktop-C77yyZAN.jpg",
+      "assets/time-evening-desktop-Cn_FxAsx.jpg"
+    ]
+  },
+  "_three-view-BldmYu4k.js": {
+    "file": "assets/three-view-BldmYu4k.js",
+    "name": "three-view",
+    "imports": [
+      "_GLTFLoader-24JCs9hj.js"
+    ],
+    "assets": [
+      "assets/birds-D9AQUgvi.glb"
+    ]
+  },
+  "_types-j2oqv0Cf.js": {
+    "file": "assets/types-j2oqv0Cf.js",
+    "name": "types"
+  },
+  "_useRostokTransition-DYgsg7x-.js": {
+    "file": "assets/useRostokTransition-DYgsg7x-.js",
+    "name": "useRostokTransition",
+    "imports": [
+      "index.html",
+      "_rostokTransition-CpuWKuGN.js"
+    ]
+  },
+  "_useStarHarvest-BKtWExXu.css": {
+    "file": "assets/useStarHarvest-BKtWExXu.css",
+    "src": "_useStarHarvest-BKtWExXu.css"
+  },
+  "_useStarHarvest-C3rvlvCT.js": {
+    "file": "assets/useStarHarvest-C3rvlvCT.js",
+    "name": "useStarHarvest",
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/useStarHarvest-BKtWExXu.css"
+    ]
+  },
+  "_wind-gd7lwWwg.js": {
+    "file": "assets/wind-gd7lwWwg.js",
+    "name": "wind",
+    "imports": [
+      "_selection-DosOH8k-.js",
+      "_render-BNq2rhkC.js"
+    ],
+    "assets": [
+      "assets/wood-BjVEJ5uZ.glb",
+      "assets/leaves-ChN9IFn7.glb",
+      "assets/structure-LZp3lP57.json",
+      "assets/instances-Dm_Cg2hc.json"
+    ]
+  },
+  "_x-Pq0zn0OM.js": {
+    "file": "assets/x-Pq0zn0OM.js",
+    "name": "x",
+    "imports": [
+      "_sprout-XrWjxjcv.js"
+    ]
+  },
+  "docs/references/trees/02-stylized-birch.png": {
+    "file": "assets/02-stylized-birch-BKtXb71V.png",
+    "src": "docs/references/trees/02-stylized-birch.png"
+  },
+  "docs/references/trees/birch-natural-v1/birch.png": {
+    "file": "assets/birch-DjWPrwco.png",
+    "src": "docs/references/trees/birch-natural-v1/birch.png"
+  },
+  "docs/references/trees/oak-adult-v1/oak.png": {
+    "file": "assets/oak-ykLDdlNG.png",
+    "src": "docs/references/trees/oak-adult-v1/oak.png"
+  },
+  "docs/references/trees/oak-dome-v2/front.png": {
+    "file": "assets/front-BVBpju3Q.png",
+    "src": "docs/references/trees/oak-dome-v2/front.png"
+  },
+  "docs/references/trees/tree-sacura-v1/sakura-side.png": {
+    "file": "assets/sakura-side-on1RDds9.png",
+    "src": "docs/references/trees/tree-sacura-v1/sakura-side.png"
+  },
+  "experimental/boy-visit/ostrov_boy.glb": {
+    "file": "assets/ostrov_boy-Bm19IaU4.glb",
+    "src": "experimental/boy-visit/ostrov_boy.glb"
+  },
+  "experimental/boy-visit/ostrov_boy.html": {
+    "file": "assets/ostrov_boy-DKVg2zTA.html",
+    "src": "experimental/boy-visit/ostrov_boy.html"
+  },
+  "experiments/sakura-meshy/public/assets/instances.json": {
+    "file": "assets/instances-Df_hHfTt.json",
+    "src": "experiments/sakura-meshy/public/assets/instances.json"
+  },
+  "experiments/sakura-meshy/public/assets/leaves.glb": {
+    "file": "assets/leaves-BILo1XV5.glb",
+    "src": "experiments/sakura-meshy/public/assets/leaves.glb"
+  },
+  "experiments/sakura-meshy/public/assets/wood.glb": {
+    "file": "assets/wood-Du8ENzss.glb",
+    "src": "experiments/sakura-meshy/public/assets/wood.glb"
+  },
+  "index.html": {
+    "file": "assets/index-CW5cRT3W.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/DevIndex.tsx",
+      "src/DevBoyAnimation.tsx",
+      "src/DevBoyIsland.tsx",
+      "src/DevGarden2dWorkshop.tsx",
+      "src/DevGarden2dEngine.tsx",
+      "src/DevIslandGenerator.tsx",
+      "_DevTreeGenerator-CL6vbiVL.js",
+      "src/DevRostok.tsx",
+      "src/DevRostokTransition.tsx",
+      "src/DevThreeAnimation.tsx",
+      "src/GardenClassicApp.tsx",
+      "src/App.tsx"
+    ]
+  },
+  "node_modules/pixi.js/lib/environment-browser/browserAll.mjs": {
+    "file": "assets/browserAll-Cj729VMc.js",
+    "name": "browserAll",
+    "src": "node_modules/pixi.js/lib/environment-browser/browserAll.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "_stage-_6t2YQV0.js",
+      "node_modules/pixi.js/lib/environment-webworker/webworkerAll.mjs",
+      "index.html",
+      "_CanvasPool-udZm980x.js",
+      "_Filter-lXrGs8BJ.js"
+    ]
+  },
+  "node_modules/pixi.js/lib/environment-webworker/webworkerAll.mjs": {
+    "file": "assets/webworkerAll-Bh0dS81c.js",
+    "name": "webworkerAll",
+    "src": "node_modules/pixi.js/lib/environment-webworker/webworkerAll.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "_stage-_6t2YQV0.js",
+      "_CanvasPool-udZm980x.js",
+      "_Filter-lXrGs8BJ.js",
+      "index.html"
+    ]
+  },
+  "node_modules/pixi.js/lib/rendering/renderers/canvas/CanvasRenderer.mjs": {
+    "file": "assets/CanvasRenderer-3_mKvjAC.js",
+    "name": "CanvasRenderer",
+    "src": "node_modules/pixi.js/lib/rendering/renderers/canvas/CanvasRenderer.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "_stage-_6t2YQV0.js",
+      "_RenderTargetSystem-DtniFm8f.js",
+      "index.html",
+      "_Filter-lXrGs8BJ.js",
+      "_CanvasPool-udZm980x.js"
+    ]
+  },
+  "node_modules/pixi.js/lib/rendering/renderers/gl/WebGLRenderer.mjs": {
+    "file": "assets/WebGLRenderer-Cf1dFR82.js",
+    "name": "WebGLRenderer",
+    "src": "node_modules/pixi.js/lib/rendering/renderers/gl/WebGLRenderer.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "_stage-_6t2YQV0.js",
+      "_BufferResource-DRePCMht.js",
+      "_RenderTargetSystem-DtniFm8f.js",
+      "index.html",
+      "_Filter-lXrGs8BJ.js",
+      "_CanvasPool-udZm980x.js"
+    ]
+  },
+  "node_modules/pixi.js/lib/rendering/renderers/gpu/WebGPURenderer.mjs": {
+    "file": "assets/WebGPURenderer-rEcRCp4Y.js",
+    "name": "WebGPURenderer",
+    "src": "node_modules/pixi.js/lib/rendering/renderers/gpu/WebGPURenderer.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "_stage-_6t2YQV0.js",
+      "_BufferResource-DRePCMht.js",
+      "_RenderTargetSystem-DtniFm8f.js",
+      "_CanvasPool-udZm980x.js",
+      "index.html",
+      "_Filter-lXrGs8BJ.js"
+    ]
+  },
+  "node_modules/pixi.js/lib/scene/text-bitmap/BitmapFont.mjs": {
+    "file": "assets/BitmapFont-Bjl-dmyn.js",
+    "name": "BitmapFont",
+    "src": "node_modules/pixi.js/lib/scene/text-bitmap/BitmapFont.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "_stage-_6t2YQV0.js",
+      "_CanvasPool-udZm980x.js",
+      "index.html"
+    ]
+  },
+  "src/App.tsx": {
+    "file": "assets/App-DanQkVE9.js",
+    "name": "App",
+    "src": "src/App.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_model-BdxT5vnj.js",
+      "_Modal-Bzy-xGTj.js",
+      "_stroke-DIrXqUnN.js",
+      "_Garden2dEngineView-CGZ5BxUc.js",
+      "_pageTransitionChoice-tv59eJUM.js",
+      "_useStarHarvest-C3rvlvCT.js",
+      "_CloudHint-Ds0i8oxm.js",
+      "_types-j2oqv0Cf.js",
+      "_sprout-XrWjxjcv.js",
+      "_leaf-CFRpad-l.js",
+      "_x-Pq0zn0OM.js",
+      "_rotate-ccw-DeXiDXsB.js",
+      "_useRostokTransition-DYgsg7x-.js",
+      "_rostokTransition-CpuWKuGN.js",
+      "_download-BMKGBMj1.js",
+      "_package-CKusUTSB.js",
+      "_stage-_6t2YQV0.js"
+    ],
+    "dynamicImports": [
+      "src/Scene.tsx",
+      "src/garden-scene/StarHarvest.tsx"
+    ],
+    "css": [
+      "assets/App-nUwjCztO.css",
+      "assets/engine-3nE_Zriw.css"
+    ],
+    "assets": [
+      "assets/oak-Be-Osopc.webp",
+      "assets/pine-CY1e8yGd.webp",
+      "assets/birch-CNBi52Tj.webp",
+      "assets/maple-dwmHMxOv.webp",
+      "assets/cherry-Bf0_NY1M.webp",
+      "assets/autumn-BM8eW5NQ.webp",
+      "assets/apple-Bt5vtSUZ.webp",
+      "assets/willow-wxz5uvHf.webp",
+      "assets/fir-bGbsqP8-.webp",
+      "assets/linden-B2ymMD4Z.webp",
+      "assets/gift-BEoSoryk.webp",
+      "assets/gift-open-CoCrk-7z.webp",
+      "assets/sprout-34cjTGIy.webp",
+      "assets/squirrel-DN9uliaE.webp",
+      "assets/mushrooms-B4NP52pu.webp",
+      "assets/robin-DTbnLzhO.webp",
+      "assets/paper-Dx8c7hoU.png"
+    ]
+  },
+  "src/DevBoyAnimation.tsx": {
+    "file": "assets/DevBoyAnimation-mtd0qmbr.js",
+    "name": "DevBoyAnimation",
+    "src": "src/DevBoyAnimation.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_OrbitControls-BRlFss5l.js",
+      "_GLTFLoader-24JCs9hj.js",
+      "_clips--yBidqhF.js",
+      "_library-D3ODAv0I.js",
+      "_events-9ce18a08.esm-kPyibT-P.js"
+    ],
+    "css": [
+      "assets/DevBoyAnimation-COS74DVG.css"
+    ]
+  },
+  "src/DevBoyIsland.tsx": {
+    "file": "assets/DevBoyIsland-siqrL2Mo.js",
+    "name": "DevBoyIsland",
+    "src": "src/DevBoyIsland.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_PerformancePanel-Cp0UXBnb.js"
+    ],
+    "dynamicImports": [
+      "src/floating-garden/Comparison.tsx"
+    ],
+    "assets": [
+      "assets/ostrov_boy-DKVg2zTA.html"
+    ]
+  },
+  "src/DevGarden2dEngine.tsx": {
+    "file": "assets/DevGarden2dEngine-54cGfjeK.js",
+    "name": "DevGarden2dEngine",
+    "src": "src/DevGarden2dEngine.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "dynamicImports": [
+      "src/garden-2d/engine/EngineView.tsx"
+    ],
+    "css": [
+      "assets/DevGarden2dWorkshop-D5l7qQQk.css",
+      "assets/engine-3nE_Zriw.css"
+    ]
+  },
+  "src/DevGarden2dWorkshop.tsx": {
+    "file": "assets/DevGarden2dWorkshop-DVrCwuGo.js",
+    "name": "DevGarden2dWorkshop",
+    "src": "src/DevGarden2dWorkshop.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_Modal-Bzy-xGTj.js",
+      "_model-BdxT5vnj.js",
+      "_Garden2dEngineView-CGZ5BxUc.js",
+      "_useStarHarvest-C3rvlvCT.js",
+      "_sprout-XrWjxjcv.js",
+      "_x-Pq0zn0OM.js",
+      "_download-BMKGBMj1.js",
+      "_package-CKusUTSB.js",
+      "_stage-_6t2YQV0.js"
+    ],
+    "css": [
+      "assets/DevGarden2dWorkshop-D5l7qQQk.css",
+      "assets/engine-3nE_Zriw.css"
+    ]
+  },
+  "src/DevIndex.tsx": {
+    "file": "assets/DevIndex-DeIjzw2B.js",
+    "name": "DevIndex",
+    "src": "src/DevIndex.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_pageTransitionChoice-tv59eJUM.js"
+    ],
+    "css": [
+      "assets/DevIndex-B_fsccxl.css"
+    ]
+  },
+  "src/DevIslandGenerator.tsx": {
+    "file": "assets/DevIslandGenerator-B9xhypiM.js",
+    "name": "DevIslandGenerator",
+    "src": "src/DevIslandGenerator.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_aeria-document-GTBZOtju.js",
+      "_selection-DosOH8k-.js",
+      "_render-BNq2rhkC.js",
+      "_OrbitControls-BRlFss5l.js",
+      "_events-9ce18a08.esm-kPyibT-P.js",
+      "_GLTFLoader-24JCs9hj.js",
+      "_collector-BBOCQ_v2.js",
+      "_rostokTransition-CpuWKuGN.js"
+    ],
+    "dynamicImports": [
+      "src/trees/oak-fg06/runtime.ts"
+    ],
+    "css": [
+      "assets/DevIslandGenerator-xcNeEzc_.css"
+    ]
+  },
+  "src/DevRostok.tsx": {
+    "file": "assets/DevRostok-mn0Q7HYb.js",
+    "name": "DevRostok",
+    "src": "src/DevRostok.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "src/RostokScene.tsx"
+    ]
+  },
+  "src/DevRostokTransition.tsx": {
+    "file": "assets/DevRostokTransition-BoocJ8U_.js",
+    "name": "DevRostokTransition",
+    "src": "src/DevRostokTransition.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "src/Scene.tsx",
+      "src/RostokScene.tsx",
+      "_rostokTransition-CpuWKuGN.js",
+      "_useRostokTransition-DYgsg7x-.js",
+      "_OrbitControls-BRlFss5l.js",
+      "_events-9ce18a08.esm-kPyibT-P.js",
+      "_GLTFLoader-24JCs9hj.js",
+      "_model-BdxT5vnj.js",
+      "_GardenScene-BPbW26Jh.js",
+      "_runtime-CnvP0owY.js",
+      "_render-BNq2rhkC.js",
+      "_wind-gd7lwWwg.js",
+      "_selection-DosOH8k-.js",
+      "_AeriaGroundContext-CAHyIgyS.js",
+      "_foliage-light-BJpfoV-H.js",
+      "_types-j2oqv0Cf.js"
+    ],
+    "css": [
+      "assets/DevRostokTransition-B8W5MURi.css"
+    ]
+  },
+  "src/DevThreeAnimation.tsx": {
+    "file": "assets/DevThreeAnimation-BGKXw_2R.js",
+    "name": "DevThreeAnimation",
+    "src": "src/DevThreeAnimation.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_GardenScene-BPbW26Jh.js",
+      "_PerformancePanel-Cp0UXBnb.js",
+      "_useStarHarvest-C3rvlvCT.js",
+      "_CloudHint-Ds0i8oxm.js",
+      "_sprout-XrWjxjcv.js",
+      "src/garden-scene/StarHarvest.tsx",
+      "_clips--yBidqhF.js",
+      "_selection-DosOH8k-.js",
+      "_links-7cf-gin-.js",
+      "_runtime-CnvP0owY.js",
+      "_events-9ce18a08.esm-kPyibT-P.js",
+      "_collector-BBOCQ_v2.js",
+      "_GLTFLoader-24JCs9hj.js",
+      "_OrbitControls-BRlFss5l.js",
+      "_model-BdxT5vnj.js",
+      "_rostokTransition-CpuWKuGN.js",
+      "_files-BuygaZMv.js",
+      "_recipes-Z-JmS1rT.js",
+      "_rotate-ccw-DeXiDXsB.js",
+      "_x-Pq0zn0OM.js",
+      "_maximize-2-Bt8M13rO.js",
+      "_render-BNq2rhkC.js",
+      "_AeriaGroundContext-CAHyIgyS.js",
+      "_foliage-light-BJpfoV-H.js",
+      "_types-j2oqv0Cf.js",
+      "_wind-gd7lwWwg.js"
+    ],
+    "css": [
+      "assets/DevThreeAnimation-Cp5-2PhQ.css"
+    ]
+  },
+  "src/GardenClassicApp.tsx": {
+    "file": "assets/GardenClassicApp-ctm2svUL.js",
+    "name": "GardenClassicApp",
+    "src": "src/GardenClassicApp.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_model-BdxT5vnj.js",
+      "_Modal-Bzy-xGTj.js",
+      "_stroke-DIrXqUnN.js",
+      "_package-CKusUTSB.js",
+      "src/Scene.tsx",
+      "_sprout-XrWjxjcv.js",
+      "_rotate-ccw-DeXiDXsB.js",
+      "_maximize-2-Bt8M13rO.js",
+      "_x-Pq0zn0OM.js",
+      "_leaf-CFRpad-l.js",
+      "_useRostokTransition-DYgsg7x-.js",
+      "_rostokTransition-CpuWKuGN.js",
+      "_OrbitControls-BRlFss5l.js",
+      "_events-9ce18a08.esm-kPyibT-P.js",
+      "_GLTFLoader-24JCs9hj.js",
+      "_GardenScene-BPbW26Jh.js",
+      "_runtime-CnvP0owY.js",
+      "_render-BNq2rhkC.js",
+      "_wind-gd7lwWwg.js",
+      "_selection-DosOH8k-.js",
+      "_AeriaGroundContext-CAHyIgyS.js",
+      "_foliage-light-BJpfoV-H.js",
+      "_types-j2oqv0Cf.js"
+    ]
+  },
+  "src/MergedTreeWorkshop.tsx": {
+    "file": "assets/MergedTreeWorkshop-DcnChWKI.js",
+    "name": "MergedTreeWorkshop",
+    "src": "src/MergedTreeWorkshop.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_links-7cf-gin-.js",
+      "_GLTFLoader-24JCs9hj.js",
+      "_OrbitControls-BRlFss5l.js",
+      "_runtime-CnvP0owY.js",
+      "_DevTreeGenerator-CL6vbiVL.js",
+      "_selection-DosOH8k-.js",
+      "_events-9ce18a08.esm-kPyibT-P.js",
+      "_render-BNq2rhkC.js",
+      "_wind-gd7lwWwg.js",
+      "_recipes-Z-JmS1rT.js",
+      "_engine-D1WY6WQA.js",
+      "_rotate-ccw-DeXiDXsB.js",
+      "_sprout-XrWjxjcv.js",
+      "_leaf-CFRpad-l.js",
+      "_download-BMKGBMj1.js",
+      "_rostokTransition-CpuWKuGN.js"
+    ],
+    "css": [
+      "assets/MergedTreeWorkshop-BkD4Ky7z.css"
+    ]
+  },
+  "src/RostokScene.tsx": {
+    "file": "assets/RostokScene-asypUfWr.js",
+    "name": "RostokScene",
+    "src": "src/RostokScene.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/RostokScene-mPhEZ_G8.css"
+    ]
+  },
+  "src/Scene.tsx": {
+    "file": "assets/Scene-B_eZlYxg.js",
+    "name": "Scene",
+    "src": "src/Scene.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_OrbitControls-BRlFss5l.js",
+      "_model-BdxT5vnj.js",
+      "_GardenScene-BPbW26Jh.js",
+      "_selection-DosOH8k-.js",
+      "_runtime-CnvP0owY.js",
+      "_events-9ce18a08.esm-kPyibT-P.js",
+      "_GLTFLoader-24JCs9hj.js",
+      "_render-BNq2rhkC.js",
+      "_AeriaGroundContext-CAHyIgyS.js",
+      "_foliage-light-BJpfoV-H.js",
+      "_types-j2oqv0Cf.js",
+      "_rostokTransition-CpuWKuGN.js",
+      "_wind-gd7lwWwg.js"
+    ]
+  },
+  "src/assets/child-task-list/brush-teeth.jpg": {
+    "file": "assets/brush-teeth-F0wP4dhV.jpg",
+    "src": "src/assets/child-task-list/brush-teeth.jpg"
+  },
+  "src/assets/child-task-list/custom-task.jpg": {
+    "file": "assets/custom-task-C1MPzv4n.jpg",
+    "src": "src/assets/child-task-list/custom-task.jpg"
+  },
+  "src/assets/child-task-list/eat-meal.jpg": {
+    "file": "assets/eat-meal-DHwVKhqY.jpg",
+    "src": "src/assets/child-task-list/eat-meal.jpg"
+  },
+  "src/assets/child-task-list/get-dressed.jpg": {
+    "file": "assets/get-dressed-CcNc48VN.jpg",
+    "src": "src/assets/child-task-list/get-dressed.jpg"
+  },
+  "src/assets/child-task-list/go-to-kindergarten.jpg": {
+    "file": "assets/go-to-kindergarten-DbbN1H-W.jpg",
+    "src": "src/assets/child-task-list/go-to-kindergarten.jpg"
+  },
+  "src/assets/child-task-list/go-to-playground.jpg": {
+    "file": "assets/go-to-playground-D115CyNS.jpg",
+    "src": "src/assets/child-task-list/go-to-playground.jpg"
+  },
+  "src/assets/child-task-list/greet-teacher.jpg": {
+    "file": "assets/greet-teacher-DjuEsOrU.jpg",
+    "src": "src/assets/child-task-list/greet-teacher.jpg"
+  },
+  "src/assets/child-task-list/play-with-friends.jpg": {
+    "file": "assets/play-with-friends-yMYWTFWV.jpg",
+    "src": "src/assets/child-task-list/play-with-friends.jpg"
+  },
+  "src/assets/child-task-list/put-away-toys.jpg": {
+    "file": "assets/put-away-toys-C_26BlI5.jpg",
+    "src": "src/assets/child-task-list/put-away-toys.jpg"
+  },
+  "src/assets/child-task-list/quiet-time.jpg": {
+    "file": "assets/quiet-time-CyC9-tRB.jpg",
+    "src": "src/assets/child-task-list/quiet-time.jpg"
+  },
+  "src/assets/child-task-list/read-book.jpg": {
+    "file": "assets/read-book-B926CHV-.jpg",
+    "src": "src/assets/child-task-list/read-book.jpg"
+  },
+  "src/assets/child-task-list/time-day-desktop.jpg": {
+    "file": "assets/time-day-desktop-C77yyZAN.jpg",
+    "src": "src/assets/child-task-list/time-day-desktop.jpg"
+  },
+  "src/assets/child-task-list/time-day-tablet.jpg": {
+    "file": "assets/time-day-tablet-DckQhf6E.jpg",
+    "src": "src/assets/child-task-list/time-day-tablet.jpg"
+  },
+  "src/assets/child-task-list/time-day.jpg": {
+    "file": "assets/time-day-Ca6ZLQhl.jpg",
+    "src": "src/assets/child-task-list/time-day.jpg"
+  },
+  "src/assets/child-task-list/time-evening-desktop.jpg": {
+    "file": "assets/time-evening-desktop-Cn_FxAsx.jpg",
+    "src": "src/assets/child-task-list/time-evening-desktop.jpg"
+  },
+  "src/assets/child-task-list/time-evening-tablet.jpg": {
+    "file": "assets/time-evening-tablet-BrTU03Mr.jpg",
+    "src": "src/assets/child-task-list/time-evening-tablet.jpg"
+  },
+  "src/assets/child-task-list/time-evening.jpg": {
+    "file": "assets/time-evening-DE8lTq90.jpg",
+    "src": "src/assets/child-task-list/time-evening.jpg"
+  },
+  "src/assets/child-task-list/time-morning-desktop.jpg": {
+    "file": "assets/time-morning-desktop-BPyKEV-3.jpg",
+    "src": "src/assets/child-task-list/time-morning-desktop.jpg"
+  },
+  "src/assets/child-task-list/time-morning-tablet.jpg": {
+    "file": "assets/time-morning-tablet-U4FABD1q.jpg",
+    "src": "src/assets/child-task-list/time-morning-tablet.jpg"
+  },
+  "src/assets/child-task-list/time-morning.jpg": {
+    "file": "assets/time-morning-BrJ4rpRc.jpg",
+    "src": "src/assets/child-task-list/time-morning.jpg"
+  },
+  "src/assets/child-task-list/toilet.jpg": {
+    "file": "assets/toilet-DKPycA8Y.jpg",
+    "src": "src/assets/child-task-list/toilet.jpg"
+  },
+  "src/assets/child-task-list/wash-hands.jpg": {
+    "file": "assets/wash-hands-C0SBwkQn.jpg",
+    "src": "src/assets/child-task-list/wash-hands.jpg"
+  },
+  "src/characters/birds/assets/birds.glb": {
+    "file": "assets/birds-D9AQUgvi.glb",
+    "src": "src/characters/birds/assets/birds.glb"
+  },
+  "src/floating-garden/Comparison.tsx": {
+    "file": "assets/Comparison-DBKCfyNU.js",
+    "name": "Comparison",
+    "src": "src/floating-garden/Comparison.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_aeria-document-GTBZOtju.js",
+      "_render-BNq2rhkC.js",
+      "index.html",
+      "src/tree-generator/blender/oak-crown.ts",
+      "_GLTFLoader-24JCs9hj.js",
+      "_files-BuygaZMv.js",
+      "_package-CKusUTSB.js",
+      "_collector-BBOCQ_v2.js"
+    ],
+    "css": [
+      "assets/Comparison-DPfXagrb.css"
+    ]
+  },
+  "src/garden-2d/engine/EngineView.tsx": {
+    "file": "assets/EngineView-BP7eQ78q.js",
+    "name": "EngineView",
+    "src": "src/garden-2d/engine/EngineView.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_stage-_6t2YQV0.js"
+    ],
+    "css": [
+      "assets/DevGarden2dWorkshop-D5l7qQQk.css",
+      "assets/engine-3nE_Zriw.css"
+    ]
+  },
+  "src/garden-scene/GardenBirds.tsx": {
+    "file": "assets/GardenBirds-BfXCpe3g.js",
+    "name": "GardenBirds",
+    "src": "src/garden-scene/GardenBirds.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_three-view-BldmYu4k.js",
+      "_GardenScene-BPbW26Jh.js",
+      "_events-9ce18a08.esm-kPyibT-P.js",
+      "_GLTFLoader-24JCs9hj.js",
+      "_model-BdxT5vnj.js",
+      "_runtime-CnvP0owY.js",
+      "_render-BNq2rhkC.js",
+      "_wind-gd7lwWwg.js",
+      "_selection-DosOH8k-.js",
+      "_rostokTransition-CpuWKuGN.js",
+      "_OrbitControls-BRlFss5l.js",
+      "_AeriaGroundContext-CAHyIgyS.js",
+      "_foliage-light-BJpfoV-H.js",
+      "_types-j2oqv0Cf.js"
+    ]
+  },
+  "src/garden-scene/GardenSunny.tsx": {
+    "file": "assets/GardenSunny-CET-T22R.js",
+    "name": "GardenSunny",
+    "src": "src/garden-scene/GardenSunny.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_GLTFLoader-24JCs9hj.js",
+      "_clips--yBidqhF.js",
+      "_library-D3ODAv0I.js",
+      "_foliage-light-BJpfoV-H.js",
+      "_AeriaGroundContext-CAHyIgyS.js",
+      "_three-view-BldmYu4k.js",
+      "_events-9ce18a08.esm-kPyibT-P.js"
+    ]
+  },
+  "src/garden-scene/StarHarvest.tsx": {
+    "file": "assets/StarHarvest-CzOeW-GK.js",
+    "name": "StarHarvest",
+    "src": "src/garden-scene/StarHarvest.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_GLTFLoader-24JCs9hj.js",
+      "_AeriaGroundContext-CAHyIgyS.js",
+      "_events-9ce18a08.esm-kPyibT-P.js"
+    ]
+  },
+  "src/island-generator/aeria/assets/island.glb": {
+    "file": "assets/island-BkrdanYh.glb",
+    "src": "src/island-generator/aeria/assets/island.glb"
+  },
+  "src/island-generator/aeria/runtime.ts": {
+    "file": "assets/runtime-BIqFqnkQ.js",
+    "name": "runtime",
+    "src": "src/island-generator/aeria/runtime.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_GLTFLoader-24JCs9hj.js",
+      "_foliage-light-BJpfoV-H.js"
+    ],
+    "assets": [
+      "assets/island-BkrdanYh.glb"
+    ]
+  },
+  "src/modules/our-forest/assets/apple.webp": {
+    "file": "assets/apple-Bt5vtSUZ.webp",
+    "src": "src/modules/our-forest/assets/apple.webp"
+  },
+  "src/modules/our-forest/assets/autumn.webp": {
+    "file": "assets/autumn-BM8eW5NQ.webp",
+    "src": "src/modules/our-forest/assets/autumn.webp"
+  },
+  "src/modules/our-forest/assets/birch.webp": {
+    "file": "assets/birch-CNBi52Tj.webp",
+    "src": "src/modules/our-forest/assets/birch.webp"
+  },
+  "src/modules/our-forest/assets/cherry.webp": {
+    "file": "assets/cherry-Bf0_NY1M.webp",
+    "src": "src/modules/our-forest/assets/cherry.webp"
+  },
+  "src/modules/our-forest/assets/fir.webp": {
+    "file": "assets/fir-bGbsqP8-.webp",
+    "src": "src/modules/our-forest/assets/fir.webp"
+  },
+  "src/modules/our-forest/assets/gift-open.webp": {
+    "file": "assets/gift-open-CoCrk-7z.webp",
+    "src": "src/modules/our-forest/assets/gift-open.webp"
+  },
+  "src/modules/our-forest/assets/gift.webp": {
+    "file": "assets/gift-BEoSoryk.webp",
+    "src": "src/modules/our-forest/assets/gift.webp"
+  },
+  "src/modules/our-forest/assets/linden.webp": {
+    "file": "assets/linden-B2ymMD4Z.webp",
+    "src": "src/modules/our-forest/assets/linden.webp"
+  },
+  "src/modules/our-forest/assets/maple.webp": {
+    "file": "assets/maple-dwmHMxOv.webp",
+    "src": "src/modules/our-forest/assets/maple.webp"
+  },
+  "src/modules/our-forest/assets/mushrooms.webp": {
+    "file": "assets/mushrooms-B4NP52pu.webp",
+    "src": "src/modules/our-forest/assets/mushrooms.webp"
+  },
+  "src/modules/our-forest/assets/oak.webp": {
+    "file": "assets/oak-Be-Osopc.webp",
+    "src": "src/modules/our-forest/assets/oak.webp"
+  },
+  "src/modules/our-forest/assets/paper.png": {
+    "file": "assets/paper-Dx8c7hoU.png",
+    "src": "src/modules/our-forest/assets/paper.png"
+  },
+  "src/modules/our-forest/assets/pine.webp": {
+    "file": "assets/pine-CY1e8yGd.webp",
+    "src": "src/modules/our-forest/assets/pine.webp"
+  },
+  "src/modules/our-forest/assets/robin.webp": {
+    "file": "assets/robin-DTbnLzhO.webp",
+    "src": "src/modules/our-forest/assets/robin.webp"
+  },
+  "src/modules/our-forest/assets/sprout.webp": {
+    "file": "assets/sprout-34cjTGIy.webp",
+    "src": "src/modules/our-forest/assets/sprout.webp"
+  },
+  "src/modules/our-forest/assets/squirrel.webp": {
+    "file": "assets/squirrel-DN9uliaE.webp",
+    "src": "src/modules/our-forest/assets/squirrel.webp"
+  },
+  "src/modules/our-forest/assets/willow.webp": {
+    "file": "assets/willow-wxz5uvHf.webp",
+    "src": "src/modules/our-forest/assets/willow.webp"
+  },
+  "src/style.css": {
+    "file": "assets/style-BIJcYOjA.css",
+    "src": "src/style.css"
+  },
+  "src/tree-generator/blender/assets/instances.json": {
+    "file": "assets/instances-Dm_Cg2hc.json",
+    "src": "src/tree-generator/blender/assets/instances.json"
+  },
+  "src/tree-generator/blender/assets/leaves.glb": {
+    "file": "assets/leaves-ChN9IFn7.glb",
+    "src": "src/tree-generator/blender/assets/leaves.glb"
+  },
+  "src/tree-generator/blender/assets/structure.json": {
+    "file": "assets/structure-LZp3lP57.json",
+    "src": "src/tree-generator/blender/assets/structure.json"
+  },
+  "src/tree-generator/blender/assets/wood.glb": {
+    "file": "assets/wood-BjVEJ5uZ.glb",
+    "src": "src/tree-generator/blender/assets/wood.glb"
+  },
+  "src/tree-generator/blender/oak-crown.ts": {
+    "file": "assets/oak-crown-CJgoL6p-.js",
+    "name": "oak-crown",
+    "src": "src/tree-generator/blender/oak-crown.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_render-BNq2rhkC.js",
+      "_GLTFLoader-24JCs9hj.js"
+    ]
+  },
+  "src/tree-generator/oak-growth/assets/instances.json": {
+    "file": "assets/instances-kG_l0DdJ.json",
+    "src": "src/tree-generator/oak-growth/assets/instances.json"
+  },
+  "src/tree-generator/oak-growth/assets/leaves.glb": {
+    "file": "assets/leaves-CFWQox-9.glb",
+    "src": "src/tree-generator/oak-growth/assets/leaves.glb"
+  },
+  "src/tree-generator/oak-growth/assets/structure.json": {
+    "file": "assets/structure-ot3x1kNA.json",
+    "src": "src/tree-generator/oak-growth/assets/structure.json"
+  },
+  "src/tree-generator/oak-growth/assets/wood.glb": {
+    "file": "assets/wood-BSeWtO-r.glb",
+    "src": "src/tree-generator/oak-growth/assets/wood.glb"
+  },
+  "src/trees/oak-fg06/assets/instances.json": {
+    "file": "assets/instances-Pmh6cRes.json",
+    "src": "src/trees/oak-fg06/assets/instances.json"
+  },
+  "src/trees/oak-fg06/assets/leaves.glb": {
+    "file": "assets/leaves-CFWQox-9.glb",
+    "src": "src/tree-generator/oak-growth/assets/leaves.glb"
+  },
+  "src/trees/oak-fg06/assets/structure.json": {
+    "file": "assets/structure-BcsIAbUb.json",
+    "src": "src/trees/oak-fg06/assets/structure.json"
+  },
+  "src/trees/oak-fg06/assets/wood.glb": {
+    "file": "assets/wood-C1bpCIJP.glb",
+    "src": "src/trees/oak-fg06/assets/wood.glb"
+  },
+  "src/trees/oak-fg06/runtime.ts": {
+    "file": "assets/runtime-B323mLdr.js",
+    "name": "runtime",
+    "src": "src/trees/oak-fg06/runtime.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_GLTFLoader-24JCs9hj.js",
+      "_engine-D1WY6WQA.js",
+      "_render-BNq2rhkC.js"
+    ],
+    "assets": [
+      "assets/wood-C1bpCIJP.glb",
+      "assets/leaves-CFWQox-9.glb",
+      "assets/structure-BcsIAbUb.json",
+      "assets/instances-Pmh6cRes.json"
+    ]
+  }
+}
