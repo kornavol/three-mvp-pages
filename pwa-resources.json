@@ -1,67 +1,211 @@
 {
   "base": "/three-mvp-pages/",
   "prefix": "quiet-garden-pwa:/three-mvp-pages/:",
-  "revision": "7cd1d3ac217e165893a5",
+  "revision": "0d2c64c0a72245cf7975",
   "resources": [
     {
-      "url": "/three-mvp-pages/assets/App-Cnw6MOw5.js",
-      "hash": "f565d29fa0550a694ce89678ffa80952107a90a13514bea2444b92d496bd9b79"
+      "url": "/three-mvp-pages/assets/1f319-CaX6bsG-.svg",
+      "hash": "b70dac08f53b2761a1eb3c0b9272f61109f7203373e78e2e1fe91e15032f642c"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f331-UgZSIJ4m.svg",
+      "hash": "cd0992fa3de629e3887cdf003f879875a9dfa6041a81072055fd0e92a6b5eca7"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f333-BJM9RJ90.svg",
+      "hash": "9e1a171b2d64100143265e7df251f4f74d598d84f904e807a7f02f1bb837ef8b"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f381--Cs-khx0.svg",
+      "hash": "f8df9f99dd7e8582de860c15f037a141f1b7f4c531e5f80f1624d5aa472ba38b"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f3a8-oLGrTaUq.svg",
+      "hash": "89ae84aac36991e11404f638c55bbcd2a7efe0e0efbc3c4ca46e1e11e6ba8c62"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f3ad-i-hUm6OK.svg",
+      "hash": "9b9fdb73eb6b3afa1c8d0900127a707eeee60e129448392501fbb8d73fb46c21"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f3b5-DOLWHGmK.svg",
+      "hash": "62fbf0b5800653d86fc36a473abd96cae08257655e89cba8a2dae79259b1b89d"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f3b9-Bn4RY6Qc.svg",
+      "hash": "f232cdf4a01744a4177f02d940e81572afec9d8afeb1108a868e4be7b5b7fe5b"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f3bb-CF0vQ3Vj.svg",
+      "hash": "cada5d2c4ef754abd566c20d720609bab88ad11727d9af5952f8fa0b6ca20de5"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f3ca-F4Sa4leN.svg",
+      "hash": "86cb42c919e0c2ebbfa832bdd6b6b3baf4e49b08dc8619285a7c0792a9f7d603"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f3e5-DDE_saJb.svg",
+      "hash": "debb3f663e2f1cce38866badf35d21f51332a6e6bf92a1ea8ccd828f96074c92"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f41f-DyeXkouA.svg",
+      "hash": "bf89fbbd462068a856afd027333f883f4c44c820788a176240d2a8c5b7b5d02d"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f431-BftvvXrg.svg",
+      "hash": "fbb19611e927d40ff0188f5d4da8457e8d83faeb18a3adc66d91cb5ef17f2f1c"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f436-D7iQKOHE.svg",
+      "hash": "e22220d8e09e77f94d0dec2c66a9f5241157f49df4269c9fbd32cc3f8a960465"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f487-c1pRRLsv.svg",
+      "hash": "580faaf8bfbfa7bb25d8d8088240d0db538c9f892d6b36e0528e2e4627387783"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f48a-CIM7oxoE.svg",
+      "hash": "8071e2cb2faee4b3f3b5adf29641fe232c5d12e31122e2dcc99b2ad7b6916d7e"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f5d1-DaXUVxxq.svg",
+      "hash": "78ddd72387c87a51683122babf8b0693a931912130153da2cb41dbeeaf291c05"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f68c-w3DiiHms.svg",
+      "hash": "600a1de5e36280847c65b2be15deb78b5bef16dc0e7eed0b9112528ce0f5ac79"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f697-DJqvS4KE.svg",
+      "hash": "0ed788aa0d922d69a031b7ece7e862e254b9cd07e3c7e6974e0f5ac5694cb549"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f6b2-grqZiY3N.svg",
+      "hash": "b42918679190172ef75e3a1f2efb5192b978c652de0a8eb45708858e3f95673e"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f6bf-BVaYGfam.svg",
+      "hash": "e22d5f2465a34c370bb0e7714f273786ca1dc274be1b4ab850ba87b4549a9ef8"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f6c1-BzAnZewD.svg",
+      "hash": "54daf24d78798e5a1b424e04d0d6f42949cc4adeaeafc295d09c75f3f0671371"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f6d2-D_trrx8i.svg",
+      "hash": "6773a80a0d4a26ce05444bd672e5f19b0df2bc108ea38e3b71c0404bc2bdfbc8"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f938-Bpji6dxG.svg",
+      "hash": "8f9bfdbda3f4048984ae1d3fdeb65228ab5b9038f12d9ee639b78459ca62c189"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f9d8-CRo8W6is.svg",
+      "hash": "e7eafe83a6c0c470566204eef240bb8a7d92042d145157b51b78d405c3260688"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f9e9-DuzWXczR.svg",
+      "hash": "334f25f98c0440ec9035e05ae7da6bc7f04faac89440a9b31ecd22d0dd00f499"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f9f4-DhbnqcLd.svg",
+      "hash": "b752f5fca4adb020f1666e571c8b8d37bfe68b8e2c9a066e3d1c58907c46eda9"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f9f9-CV5u-3IK.svg",
+      "hash": "bd2afc83ca5431ef804ee85be82126fa8b181b5f655e3d7417a4d7a8ed01f659"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1f9fa-BjsruDp9.svg",
+      "hash": "cb1e3bfdc585ca689a8da946474c959d17a86cc222bd90a61e0b923440f47cad"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1fa81-BX9Tamch.svg",
+      "hash": "8fcc63d7044aefcd25335cb58cffcc30ed068c8db6f384be12e39b6c79492b4b"
+    },
+    {
+      "url": "/three-mvp-pages/assets/1fab4-C8VHpmGK.svg",
+      "hash": "ff9f6b620a227ba17bf59b61854777af07f0281e63a9fec695988b4b2361d2e8"
+    },
+    {
+      "url": "/three-mvp-pages/assets/2600-DZhkzz-X.svg",
+      "hash": "822abba4f2e39d9059d85964116b1f9300e04320ee1a9e5af09831bf2f8c82df"
+    },
+    {
+      "url": "/three-mvp-pages/assets/26bd-CorFjTy8.svg",
+      "hash": "07f69528d790b680f6ea4d07afa9d21b9e4a6670cbcc7b9749cb192c175510d5"
+    },
+    {
+      "url": "/three-mvp-pages/assets/2702-vzwLWz-_.svg",
+      "hash": "3fc88d29fa96dad6d92f45460e4d741f54dadae361cfe092701820ae158659e1"
+    },
+    {
+      "url": "/three-mvp-pages/assets/270f-CRgdgQDG.svg",
+      "hash": "5adac2395f2be13ba9bd93cf106597352668126d2b9ac0fa1a72f2365bdb2c60"
+    },
+    {
+      "url": "/three-mvp-pages/assets/2b50-vjQPaGtt.svg",
+      "hash": "35ba477f2cd01990a2712384b2ad5c2f9b0ec1def9ad94aaec139ed27f5286cf"
+    },
+    {
+      "url": "/three-mvp-pages/assets/App-BTCg50ls.js",
+      "hash": "a5b33b0b82248bf00dc0cd365ac2389c4551b6199ab30d8f7be54a5eb92d2b34"
     },
     {
       "url": "/three-mvp-pages/assets/App-D6gJqxpi.css",
       "hash": "3ec06c38e77843d3144490e2bbe3194e4122a7ae2e36dc306a181dfcda4f1c4d"
     },
     {
-      "url": "/three-mvp-pages/assets/BitmapFont-BIfwZ-rV.js",
-      "hash": "38da8d63b6e35659af1fdfd795edc0a56cb4a227c3f2a3edfdfcd3ae54220ce8"
+      "url": "/three-mvp-pages/assets/BitmapFont-0emO431d.js",
+      "hash": "88e653c28eb3bda1acca7e8424523e59bdbc169dc32d79bb733758c0943e4998"
     },
     {
-      "url": "/three-mvp-pages/assets/BufferResource-Czt9W3mv.js",
-      "hash": "ddb6e19e8de06963e0fbf350ffb4f6e0f426beb493cf0cf0f7c79e10f6844b97"
+      "url": "/three-mvp-pages/assets/BufferResource-tbWP07tT.js",
+      "hash": "0fbc298ba1e69310d4fdf4437e5d2b1d4c9ce56828d1701d9df6a1bcee77e3bc"
     },
     {
-      "url": "/three-mvp-pages/assets/CanvasPool-B18AenaD.js",
-      "hash": "0c8b27e919eef2d3e3a2a49e82b51d05c7d6497b9bb17b768a99ae46476d058b"
+      "url": "/three-mvp-pages/assets/CanvasPool-ClA1hPy8.js",
+      "hash": "a1465d69d71c351dcc698fc6aeed7ec095234a9026c4ce02377784ac4c476942"
     },
     {
-      "url": "/three-mvp-pages/assets/CanvasRenderer-qAe0r8vp.js",
-      "hash": "b24d86c81811ae5de8de7aadda5b0cfe6aca93777e7c56b730bc0a5d1127db81"
+      "url": "/three-mvp-pages/assets/CanvasRenderer-UejYZxBD.js",
+      "hash": "aaa73e1b9c3228f87fc34b64e44c3fbf07cf9a27143155e92a9e84ce95de88ce"
     },
     {
-      "url": "/three-mvp-pages/assets/CloudHint-BLTUwWhJ.js",
-      "hash": "03253c8faa4b8343fbd6b9e8597cdc2a22e8b66b8ad69ef8fe11fd177d134e80"
+      "url": "/three-mvp-pages/assets/CloudHint-D4xbrsTX.js",
+      "hash": "60f065f386c69ec3297bdda55df93bda900e0998ecd1eca5929b8199513cc873"
     },
     {
-      "url": "/three-mvp-pages/assets/Filter-EQ-XYywm.js",
-      "hash": "86436d4bf69c8abd42fa8f97e39c6e357a1a0f30a924ad1f6753d2b32731e7a1"
+      "url": "/three-mvp-pages/assets/Filter-BurizqfG.js",
+      "hash": "be612459689617f4203934869df643c0899e90c6cdfcbfb9bd4ccf2e9e9d6a60"
     },
     {
       "url": "/three-mvp-pages/assets/Garden2dEngineView-B63teK59.css",
       "hash": "0bc126d6b172081770af1a594c4e392c7ea2495e4a9551d93b56404c1eaec648"
     },
     {
-      "url": "/three-mvp-pages/assets/Garden2dEngineView-D5kGielK.js",
-      "hash": "99f12766c81ecac0ccec0c000762c7a691730b56391cf49d048d1b6459d668d1"
+      "url": "/three-mvp-pages/assets/Garden2dEngineView-j_Xv4l53.js",
+      "hash": "848a8bb74764d329bfa7b5a2786f8b19c962f994ac9bc8de4abda55821210014"
     },
     {
-      "url": "/three-mvp-pages/assets/RenderTargetSystem-CEFXU7jW.js",
-      "hash": "ed95b7d834e0ca1551ca84284246a59944f3782efbb7a2f4a33e320ea3e523cc"
+      "url": "/three-mvp-pages/assets/RenderTargetSystem-DHcW41Ro.js",
+      "hash": "80443917bb4a2f2fe3a71670da17bdb4478303f524c00cb28ca4a23647b95e20"
     },
     {
-      "url": "/three-mvp-pages/assets/RostokScene-f2OMVIM9.js",
-      "hash": "d84cf30cd4354e54300f9ac081c60700c1f2b22c5dd3149edd66491ff967e6b4"
+      "url": "/three-mvp-pages/assets/RostokScene-C75fVLFK.js",
+      "hash": "a1d023f04e4f57f2e99130ce5deeec4a5e8ec12719dc9613ea0a32a52fa6eb5e"
     },
     {
       "url": "/three-mvp-pages/assets/RostokScene-mPhEZ_G8.css",
       "hash": "fc7a17b3edaac4719da17b9c07ff201390c994806b804fa52bdce46c6a1c3f1c"
     },
     {
-      "url": "/three-mvp-pages/assets/WebGLRenderer-DeIJeMZd.js",
-      "hash": "404f399dd04f1fc6b9fc039db793f07eb8d4b707b1fc46639879bae7da8f4d49"
+      "url": "/three-mvp-pages/assets/WebGLRenderer-X8_ePVz6.js",
+      "hash": "a3982016256ee5fb99a8aae38baa1e582d69031741d3bebb154772d71e01540c"
     },
     {
-      "url": "/three-mvp-pages/assets/WebGPURenderer-C-pLA6G0.js",
-      "hash": "f0904c2f4324d7fdfd52188e793e1f93e60dd8abd2349609041647cb1dfe2a17"
+      "url": "/three-mvp-pages/assets/WebGPURenderer-v5mTpiMB.js",
+      "hash": "405b8d8cf6de641f1a8db037917cea4ae2f19660456e27abc7831a6ee4106efb"
     },
     {
       "url": "/three-mvp-pages/assets/apple-Bt5vtSUZ.webp",
@@ -76,8 +220,8 @@
       "hash": "e325bcac14a628fc7dc097b8b106b3109733a7cd533ae45825c0f52344af6c91"
     },
     {
-      "url": "/three-mvp-pages/assets/browserAll-Ofrna0Yq.js",
-      "hash": "170327b7a57161738e95edcbd99bacbf3dfddec6530a0906fbb5214f6b77d854"
+      "url": "/three-mvp-pages/assets/browserAll-C2ctpXcW.js",
+      "hash": "ec5549a0cbb689078e8b56defa75ea20d240638d7a2b892a45247fc427d235b6"
     },
     {
       "url": "/three-mvp-pages/assets/brush-teeth-F0wP4dhV.jpg",
@@ -92,12 +236,12 @@
       "hash": "d3e46cfb9cdcb67ad17e5997b0e241f311f02c42fcac91c20b4a3d11734aca0b"
     },
     {
-      "url": "/three-mvp-pages/assets/download-BQGDlWv_.js",
-      "hash": "73de9b58ead2231914e2c38e9367f15c111d5d884992114e9fb2711f57abe5bc"
+      "url": "/three-mvp-pages/assets/download-BoEf1aOH.js",
+      "hash": "3b8ee0efa2dca0e16ae1f47bffbcf30360b53cbaf08f01649cfbc340a5a37856"
     },
     {
-      "url": "/three-mvp-pages/assets/droplets-BLJiVWKE.js",
-      "hash": "518a975a968d1929bdfb8bfe7f719edb01cb076e446efed582e3adc95a1bea8f"
+      "url": "/three-mvp-pages/assets/droplets-BFUFXQRX.js",
+      "hash": "6d044bf2a48ad8d959f970978b0e4871a463d67915c4e69f419dc51f0fa9e6e1"
     },
     {
       "url": "/three-mvp-pages/assets/eat-meal-DHwVKhqY.jpg",
@@ -136,12 +280,12 @@
       "hash": "936e46f6a686b7af08adc06298a08db0aeab78fe2a76d44c076c544fad629a5b"
     },
     {
-      "url": "/three-mvp-pages/assets/index-B9gfytTK.js",
-      "hash": "de8ec36e109b65b8d8a07fa896b0afab1ae22c7d6e42dc082dc58ae486099e23"
+      "url": "/three-mvp-pages/assets/index-Cbzq1BFM.js",
+      "hash": "ecd3505ba43c8f9c12349028e62f0e05958e3aae9a16a2f7aaa3bcb4dde6599e"
     },
     {
-      "url": "/three-mvp-pages/assets/leaf-CV_LY7kK.js",
-      "hash": "be83342e9cd3a7b6ea4e0e925ba5c77230cd16c0b7aca0d699de3e8d9f5452e3"
+      "url": "/three-mvp-pages/assets/leaf-CuRnx9GS.js",
+      "hash": "f54fa4d0a2719272316e627de7a515c6684e397d74b21647b2590c001e2fd449"
     },
     {
       "url": "/three-mvp-pages/assets/linden-B2ymMD4Z.webp",
@@ -152,8 +296,8 @@
       "hash": "42eef3aaf768fc0993d7f24f66febbc7f65c91d5f63c5eb0dd7537d8a5a4d761"
     },
     {
-      "url": "/three-mvp-pages/assets/model-nsSGcl3u.js",
-      "hash": "76e4b44ad68fda696bb88892697936b48da8eb79ae4adc83b04b71d672f178d9"
+      "url": "/three-mvp-pages/assets/model-F52Ol51Q.js",
+      "hash": "39895ae6c71f689cbd28c577730a2a524add08347e89dc6b14835b069dcbc16c"
     },
     {
       "url": "/three-mvp-pages/assets/mushrooms-B4NP52pu.webp",
@@ -164,8 +308,8 @@
       "hash": "3bbfeb649b7c9f4f24770c2e53368bc78b9f6b3a406b11a92f08cb4996b47cb8"
     },
     {
-      "url": "/three-mvp-pages/assets/package-NYNnL8dF.js",
-      "hash": "5c620cb5b6a9d1bbb9faf1664736df8a09fee25cbd2f9d402996c0d307b9b271"
+      "url": "/three-mvp-pages/assets/package-BBeeVRxT.js",
+      "hash": "eb7853f4283fc1e3fe205d08a7afa5eb660114e7387261a9bcff3de2b443283c"
     },
     {
       "url": "/three-mvp-pages/assets/pageTransitionChoice-tv59eJUM.js",
@@ -204,32 +348,32 @@
       "hash": "935bcbc0e4f328ee838bc723135c0e3a095588cc4748e76c2ffce5a98c0d3faf"
     },
     {
-      "url": "/three-mvp-pages/assets/rotate-ccw-QQwlzJyK.js",
-      "hash": "5522476a6ec8755624d3c58be2c6362a6caae16cf347336fa04a55f9f910a5e2"
+      "url": "/three-mvp-pages/assets/rotate-ccw-C8NgAKPr.js",
+      "hash": "92c376e90f9275ddd67fe2cd4546f7434f6e851d38448d8a56509650f1e8ae85"
     },
     {
-      "url": "/three-mvp-pages/assets/sprout-Di1f0qCm.js",
-      "hash": "28680aa823ee36b2cfeb3c004de04fcc697078dfc8738e5645ecd0162866dd74"
+      "url": "/three-mvp-pages/assets/sprout-cPvfqLns.js",
+      "hash": "9a40dcdfa0fc23b38ee57f3e8b7d84ace8cd3ac0c4a4a0057040725d356cabdb"
     },
     {
       "url": "/three-mvp-pages/assets/squirrel-DN9uliaE.webp",
       "hash": "70c02f7a1d4df41aeb1187385543d153dec4ea77ed7614704ce64f80a6df5aaf"
     },
     {
-      "url": "/three-mvp-pages/assets/stage-nzFr0Pg1.js",
-      "hash": "af4044592595c7f3ae110f262da19957f7ff5a47e654529c104d87acb9222d10"
+      "url": "/three-mvp-pages/assets/stage-CuO7knxJ.js",
+      "hash": "6e8f9bb559769f31ad2021a50f32a9f982fc08528b7774384fda68602e5b203c"
     },
     {
-      "url": "/three-mvp-pages/assets/store-65hZwtzQ.js",
-      "hash": "d54f596bd0ebd9c0d51402ad527393c500f2ba9b8b3a850806ade170025c5cab"
+      "url": "/three-mvp-pages/assets/store-CXKTHebf.js",
+      "hash": "34df9f8e727c8b45c00d3a5d35c0ae57455ed3e500397c41172aea2c47369c33"
     },
     {
-      "url": "/three-mvp-pages/assets/stroke-BANadcRO.css",
-      "hash": "4be8d8549a83a233a11ad9c99a72f71cf3be19568d053391cfbb4fa15fa8caf0"
+      "url": "/three-mvp-pages/assets/stroke-BB1WEowU.js",
+      "hash": "c30dd8d51951f438f465af750b05be73894705f60f3e51584939d40914a34a2b"
     },
     {
-      "url": "/three-mvp-pages/assets/stroke-CbwnjlR1.js",
-      "hash": "372dd474fb309695ef7e33489f489b6ac611c8596b83aca0e9a7432fc3c4943c"
+      "url": "/three-mvp-pages/assets/stroke-ICVdfiSU.css",
+      "hash": "c1091f16631317b9b19a4c4f0969630e55bb37720f627a3c7f7c987f80468210"
     },
     {
       "url": "/three-mvp-pages/assets/style-B9IUR9F_.css",
@@ -280,12 +424,12 @@
       "hash": "65cc639e1aad18d9bd11a13ea769be20e667082db93b69ae48924c7694add61d"
     },
     {
-      "url": "/three-mvp-pages/assets/useRostokTransition-DSqsm2Wy.js",
-      "hash": "b6e8c87e141d14af7f62cd9b08b5465a4497ac202f2823aadb2c02ddc2606e33"
+      "url": "/three-mvp-pages/assets/useRostokTransition-BKhKDXCF.js",
+      "hash": "7ad2308281573e28cbdafb2c965173be4dc24487ada28ec69fdecc901cc2d321"
     },
     {
-      "url": "/three-mvp-pages/assets/useStarHarvest-D9EVnECU.js",
-      "hash": "bafb271b0dfd72228fa3cda61a7e37969b6292ef0c657c3424328ace9777a838"
+      "url": "/three-mvp-pages/assets/useStarHarvest-Db4uyNM-.js",
+      "hash": "77c2d4cced58116f59bfb701266b131a14b9706e0e71e98787f5a160dab80e93"
     },
     {
       "url": "/three-mvp-pages/assets/useStarHarvest-Dlc0Ej1h.css",
@@ -296,16 +440,16 @@
       "hash": "d1b701fc0fea83424dedb5535628b2040fd99253b2609dc3bf81e9df33025a3e"
     },
     {
-      "url": "/three-mvp-pages/assets/webworkerAll-CyNV8TmK.js",
-      "hash": "3439a7ea008da4c7703e32fcf68c13bdbffc087e824b938190bc21415858ce02"
+      "url": "/three-mvp-pages/assets/webworkerAll-D6st1uNi.js",
+      "hash": "07b16369581edd8cbb52e7a1cafb44f5a5e205e706de0cc410de41102877826f"
     },
     {
       "url": "/three-mvp-pages/assets/willow-wxz5uvHf.webp",
       "hash": "3b17bac359ffc881f50fa55490bf84c7cbdbd4ff986efe8b8ab302ca3d42f47d"
     },
     {
-      "url": "/three-mvp-pages/assets/x-CoPOyZlD.js",
-      "hash": "159aa8944ae12f0ff1ac39458772c38b3f739bdebc620651164376a5c9d2967e"
+      "url": "/three-mvp-pages/assets/x-B0K1ZzK3.js",
+      "hash": "af81aa8fd6361fb117d22943f3c17549981459c22d3e68f8a2bba7ad6b132b65"
     },
     {
       "url": "/three-mvp-pages/favicon.svg",
@@ -509,7 +653,7 @@
     },
     {
       "url": "/three-mvp-pages/index.html",
-      "hash": "bfc6fa360f5be68e0b7e598f845a15afe478fc0ea32807f18a3286d9192126d6"
+      "hash": "775f712f0cc39db4cbf0199f3826fcafbda9ff99eab7f2b6dc413e2e9cc0079a"
     },
     {
       "url": "/three-mvp-pages/manifest.webmanifest",
