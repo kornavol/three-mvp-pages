@@ -1,0 +1,1 @@
+import{b as r}from"./index-DJqZu5cL.js";import{d as t,a as n}from"./runtime-B1Nu6ES6.js";function s(a,e=0){return`${r("/three-mvp-pages/")}dev/three-animation?branch=parametric&phase=${e}#tree=${encodeURIComponent(JSON.stringify(a))}`}function c(a){const e=new URLSearchParams(a.hash.slice(1)).get("tree");return e===null?t():n(JSON.parse(e))}export{s as a,c as r};

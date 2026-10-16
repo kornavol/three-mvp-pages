@@ -24,7 +24,7 @@
       "parallax": 0.6
     },
     "island": {
-      "file": "step2/base-island.webp",
+      "file": "step2/island-edges.webp",
       "scale": 1
     },
     "clouds": {
@@ -264,77 +264,9 @@
     ],
     "decor": [
       {
-        "clip": "decor-pond",
-        "x": 800,
-        "y": 1235,
-        "scale": 0.9,
-        "ground": true
-      },
-      {
-        "clip": "decor-birch-a",
-        "x": 480,
-        "y": 1070
-      },
-      {
-        "clip": "decor-birch-b",
-        "x": 640,
-        "y": 1010
-      },
-      {
-        "clip": "decor-tree-b",
-        "x": 890,
-        "y": 985,
-        "scale": 0.95
-      },
-      {
-        "clip": "decor-reeds-a",
-        "x": 560,
-        "y": 1120
-      },
-      {
-        "clip": "decor-reeds-b",
-        "x": 700,
-        "y": 1085,
-        "scale": 0.9
-      },
-      {
-        "clip": "decor-reeds-c",
-        "x": 600,
-        "y": 1220,
-        "flip": true,
-        "scale": 0.9
-      },
-      {
-        "clip": "decor-duck-house",
-        "x": 1075,
-        "y": 1160
-      },
-      {
-        "clip": "decor-birdhouse",
-        "x": 455,
-        "y": 1175
-      },
-      {
-        "clip": "decor-bush-a",
-        "x": 1060,
-        "y": 1010
-      },
-      {
-        "clip": "decor-bush-b",
-        "x": 400,
-        "y": 1125,
-        "scale": 0.85
-      },
-      {
         "clip": "decor-boulder-b",
         "x": 1090,
         "y": 1325
-      },
-      {
-        "clip": "decor-flowers-daisy",
-        "x": 980,
-        "y": 1290,
-        "scale": 0.9
       },
       {
         "clip": "decor-lamp",
@@ -416,61 +348,6 @@
         "y": 1290,
         "scale": 0.8,
         "flip": true
-      },
-      {
-        "clip": "decor-tree-a",
-        "x": 2470,
-        "y": 1035
-      },
-      {
-        "clip": "decor-birch-b",
-        "x": 2740,
-        "y": 1060,
-        "flip": true,
-        "scale": 0.9
-      },
-      {
-        "clip": "decor-birch-a",
-        "x": 2880,
-        "y": 1120,
-        "scale": 0.85,
-        "flip": true
-      },
-      {
-        "clip": "decor-wall-short",
-        "x": 2700,
-        "y": 1085,
-        "scale": 0.8
-      },
-      {
-        "clip": "decor-mound",
-        "x": 2620,
-        "y": 1140,
-        "scale": 0.9
-      },
-      {
-        "clip": "decor-wall-long",
-        "x": 2520,
-        "y": 1270,
-        "scale": 0.85
-      },
-      {
-        "clip": "decor-bush-a",
-        "x": 2560,
-        "y": 1100,
-        "flip": true,
-        "scale": 0.9
-      },
-      {
-        "clip": "decor-boulder-a",
-        "x": 2360,
-        "y": 1350,
-        "flip": true
-      },
-      {
-        "clip": "decor-boulder-b",
-        "x": 2780,
-        "y": 1265
       },
       {
         "clip": "decor-bush-b",
@@ -613,6 +490,10 @@
         "y": 1100,
         "r": 70
       }
-    ]
+    ],
+    "play": {
+      "x0": 1210,
+      "x1": 2100
+    }
   }
 }
