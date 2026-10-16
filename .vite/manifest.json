@@ -1,31 +1,31 @@
 {
-  "_AeriaGroundContext-DS_yXMKv.js": {
-    "file": "assets/AeriaGroundContext-DS_yXMKv.js",
+  "_AeriaGroundContext-DRQeByL2.js": {
+    "file": "assets/AeriaGroundContext-DRQeByL2.js",
     "name": "AeriaGroundContext",
     "imports": [
       "index.html"
     ]
   },
-  "_BufferResource-CB7W8RTW.js": {
-    "file": "assets/BufferResource-CB7W8RTW.js",
+  "_BufferResource-mNGNVzSE.js": {
+    "file": "assets/BufferResource-mNGNVzSE.js",
     "name": "BufferResource",
     "imports": [
-      "_stage-D35UK7Ig.js"
+      "_stage-CKyBQrFM.js"
     ]
   },
-  "_CanvasPool-CxnpbKhk.js": {
-    "file": "assets/CanvasPool-CxnpbKhk.js",
+  "_CanvasPool-Ce87Euku.js": {
+    "file": "assets/CanvasPool-Ce87Euku.js",
     "name": "CanvasPool",
     "imports": [
-      "_stage-D35UK7Ig.js"
+      "_stage-CKyBQrFM.js"
     ]
   },
-  "_CloudHint-BVvR_Osu.js": {
-    "file": "assets/CloudHint-BVvR_Osu.js",
+  "_CloudHint-CbTHLv3v.js": {
+    "file": "assets/CloudHint-CbTHLv3v.js",
     "name": "CloudHint",
     "imports": [
       "index.html",
-      "_useStarHarvest-Cok-2wKY.js"
+      "_useStarHarvest-DoWn1Wr0.js"
     ]
   },
   "_DevGarden2dWorkshop-Bc9Z0iKF.css": {
@@ -36,24 +36,24 @@
     "file": "assets/DevTreeGenerator-DGQQkpVc.css",
     "src": "_DevTreeGenerator-DGQQkpVc.css"
   },
-  "_DevTreeGenerator-c_rQsaIq.js": {
-    "file": "assets/DevTreeGenerator-c_rQsaIq.js",
+  "_DevTreeGenerator-DHTy6QUu.js": {
+    "file": "assets/DevTreeGenerator-DHTy6QUu.js",
     "name": "DevTreeGenerator",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_OrbitControls-DBCmt1rp.js",
-      "_selection-eJ0t1F5N.js",
-      "_events-9ce18a08.esm-Bx5OCOZc.js",
+      "_OrbitControls-Bm-A_yce.js",
+      "_selection-BIH10dGt.js",
+      "_events-9ce18a08.esm-CDhcJJg5.js",
       "_GLTFLoader-24JCs9hj.js",
-      "_wind-SzPlq0G3.js",
+      "_wind-AsZHbWrO.js",
       "_recipes-Z-JmS1rT.js",
       "_engine-D1WY6WQA.js",
       "_render-BNq2rhkC.js",
-      "_rotate-ccw-BTku95GP.js",
-      "_leaf-XL0ZI_FN.js",
-      "_sprout-NGZlQfec.js",
-      "_download-B8AuxGyy.js"
+      "_rotate-ccw-8yCEKNsn.js",
+      "_leaf-DfdOAZ2J.js",
+      "_sprout-Kug-HbmN.js",
+      "_download-BbqRPUPN.js"
     ],
     "dynamicImports": [
       "src/trees/oak-fg06/runtime.ts",
@@ -75,11 +75,11 @@
       "assets/sakura-side-on1RDds9.png"
     ]
   },
-  "_Filter-C8ctMEBw.js": {
-    "file": "assets/Filter-C8ctMEBw.js",
+  "_Filter-DTsmXWBN.js": {
+    "file": "assets/Filter-DTsmXWBN.js",
     "name": "Filter",
     "imports": [
-      "_stage-D35UK7Ig.js"
+      "_stage-CKyBQrFM.js"
     ]
   },
   "_GLTFLoader-24JCs9hj.js": {
@@ -90,38 +90,38 @@
     "file": "assets/Garden2dEngineView-D8eSUPvg.css",
     "src": "_Garden2dEngineView-D8eSUPvg.css"
   },
-  "_Garden2dEngineView-DuSRdIOz.js": {
-    "file": "assets/Garden2dEngineView-DuSRdIOz.js",
+  "_Garden2dEngineView-DYj0aq_U.js": {
+    "file": "assets/Garden2dEngineView-DYj0aq_U.js",
     "name": "Garden2dEngineView",
     "imports": [
       "index.html",
-      "_useStarHarvest-Cok-2wKY.js",
-      "_store-RjXNZ_wE.js",
-      "_x-D6iborhP.js",
-      "_download-B8AuxGyy.js",
+      "_useStarHarvest-DoWn1Wr0.js",
+      "_store-Cl4XI92l.js",
+      "_x-yvc4Jpsh.js",
+      "_download-BbqRPUPN.js",
       "_package-ChGZvQ4x.js",
-      "_sprout-NGZlQfec.js",
-      "_model-yfywlzdQ.js",
-      "_stage-D35UK7Ig.js"
+      "_sprout-Kug-HbmN.js",
+      "_model-C2HiFRms.js",
+      "_stage-CKyBQrFM.js"
     ],
     "css": [
       "assets/Garden2dEngineView-D8eSUPvg.css",
       "assets/engine-3nE_Zriw.css"
     ]
   },
-  "_GardenScene-SlVYljej.js": {
-    "file": "assets/GardenScene-SlVYljej.js",
+  "_GardenScene-C7x-ODAp.js": {
+    "file": "assets/GardenScene-C7x-ODAp.js",
     "name": "GardenScene",
     "imports": [
       "index.html",
-      "_model-yfywlzdQ.js",
-      "_runtime-Cq6_qtzt.js",
-      "_events-9ce18a08.esm-Bx5OCOZc.js",
+      "_model-C2HiFRms.js",
+      "_runtime-B_JHDnQ-.js",
+      "_events-9ce18a08.esm-CDhcJJg5.js",
       "_GLTFLoader-24JCs9hj.js",
-      "_OrbitControls-DBCmt1rp.js",
-      "_selection-eJ0t1F5N.js",
+      "_OrbitControls-Bm-A_yce.js",
+      "_selection-BIH10dGt.js",
       "_render-BNq2rhkC.js",
-      "_AeriaGroundContext-DS_yXMKv.js",
+      "_AeriaGroundContext-DRQeByL2.js",
       "_foliage-light-BJpfoV-H.js",
       "_types-j2oqv0Cf.js"
     ],
@@ -131,17 +131,17 @@
       "src/garden-scene/GardenSunny.tsx"
     ]
   },
-  "_OrbitControls-DBCmt1rp.js": {
-    "file": "assets/OrbitControls-DBCmt1rp.js",
+  "_OrbitControls-Bm-A_yce.js": {
+    "file": "assets/OrbitControls-Bm-A_yce.js",
     "name": "OrbitControls",
     "imports": [
-      "_events-9ce18a08.esm-Bx5OCOZc.js",
+      "_events-9ce18a08.esm-CDhcJJg5.js",
       "index.html",
       "_GLTFLoader-24JCs9hj.js"
     ]
   },
-  "_PerformancePanel-BL_6e5LF.js": {
-    "file": "assets/PerformancePanel-BL_6e5LF.js",
+  "_PerformancePanel-DP9PYgQk.js": {
+    "file": "assets/PerformancePanel-DP9PYgQk.js",
     "name": "PerformancePanel",
     "imports": [
       "index.html"
@@ -154,13 +154,13 @@
     "file": "assets/PerformancePanel-DcXoBpmk.css",
     "src": "_PerformancePanel-DcXoBpmk.css"
   },
-  "_RenderTargetSystem-BAbRiG-2.js": {
-    "file": "assets/RenderTargetSystem-BAbRiG-2.js",
+  "_RenderTargetSystem-DAnPP9q8.js": {
+    "file": "assets/RenderTargetSystem-DAnPP9q8.js",
     "name": "RenderTargetSystem",
     "imports": [
-      "_stage-D35UK7Ig.js",
-      "_Filter-C8ctMEBw.js",
-      "_CanvasPool-CxnpbKhk.js"
+      "_stage-CKyBQrFM.js",
+      "_Filter-DTsmXWBN.js",
+      "_CanvasPool-Ce87Euku.js"
     ]
   },
   "_aeria-document-GTBZOtju.js": {
@@ -181,18 +181,18 @@
     "file": "assets/collector-BBOCQ_v2.js",
     "name": "collector"
   },
-  "_download-B8AuxGyy.js": {
-    "file": "assets/download-B8AuxGyy.js",
+  "_download-BbqRPUPN.js": {
+    "file": "assets/download-BbqRPUPN.js",
     "name": "download",
     "imports": [
-      "_sprout-NGZlQfec.js"
+      "_sprout-Kug-HbmN.js"
     ]
   },
-  "_droplets-BK1pProi.js": {
-    "file": "assets/droplets-BK1pProi.js",
+  "_droplets-Dq3vS6Vx.js": {
+    "file": "assets/droplets-Dq3vS6Vx.js",
     "name": "droplets",
     "imports": [
-      "_sprout-NGZlQfec.js"
+      "_sprout-Kug-HbmN.js"
     ]
   },
   "_engine-3nE_Zriw.css": {
@@ -203,8 +203,8 @@
     "file": "assets/engine-D1WY6WQA.js",
     "name": "engine"
   },
-  "_events-9ce18a08.esm-Bx5OCOZc.js": {
-    "file": "assets/events-9ce18a08.esm-Bx5OCOZc.js",
+  "_events-9ce18a08.esm-CDhcJJg5.js": {
+    "file": "assets/events-9ce18a08.esm-CDhcJJg5.js",
     "name": "events-9ce18a08.esm",
     "imports": [
       "index.html",
@@ -219,11 +219,11 @@
     "file": "assets/foliage-light-BJpfoV-H.js",
     "name": "foliage-light"
   },
-  "_leaf-XL0ZI_FN.js": {
-    "file": "assets/leaf-XL0ZI_FN.js",
+  "_leaf-DfdOAZ2J.js": {
+    "file": "assets/leaf-DfdOAZ2J.js",
     "name": "leaf",
     "imports": [
-      "_sprout-NGZlQfec.js"
+      "_sprout-Kug-HbmN.js"
     ]
   },
   "_library-D3ODAv0I.js": {
@@ -233,23 +233,23 @@
       "_GLTFLoader-24JCs9hj.js"
     ]
   },
-  "_links-D4Q_W8XI.js": {
-    "file": "assets/links-D4Q_W8XI.js",
+  "_links-DWn9GbGH.js": {
+    "file": "assets/links-DWn9GbGH.js",
     "name": "links",
     "imports": [
       "index.html",
-      "_runtime-Cq6_qtzt.js"
+      "_runtime-B_JHDnQ-.js"
     ]
   },
-  "_maximize-2-3rhK85Qb.js": {
-    "file": "assets/maximize-2-3rhK85Qb.js",
+  "_maximize-2-ODHFxFff.js": {
+    "file": "assets/maximize-2-ODHFxFff.js",
     "name": "maximize-2",
     "imports": [
-      "_sprout-NGZlQfec.js"
+      "_sprout-Kug-HbmN.js"
     ]
   },
-  "_model-yfywlzdQ.js": {
-    "file": "assets/model-yfywlzdQ.js",
+  "_model-C2HiFRms.js": {
+    "file": "assets/model-C2HiFRms.js",
     "name": "model",
     "imports": [
       "index.html"
@@ -288,25 +288,25 @@
     "file": "assets/rostokTransition-CpuWKuGN.js",
     "name": "rostokTransition"
   },
-  "_rotate-ccw-BTku95GP.js": {
-    "file": "assets/rotate-ccw-BTku95GP.js",
+  "_rotate-ccw-8yCEKNsn.js": {
+    "file": "assets/rotate-ccw-8yCEKNsn.js",
     "name": "rotate-ccw",
     "imports": [
-      "_sprout-NGZlQfec.js"
+      "_sprout-Kug-HbmN.js"
     ]
   },
-  "_runtime-Cq6_qtzt.js": {
-    "file": "assets/runtime-Cq6_qtzt.js",
+  "_runtime-B_JHDnQ-.js": {
+    "file": "assets/runtime-B_JHDnQ-.js",
     "name": "runtime",
     "imports": [
       "_render-BNq2rhkC.js",
       "_GLTFLoader-24JCs9hj.js",
-      "_wind-SzPlq0G3.js",
-      "_selection-eJ0t1F5N.js"
+      "_wind-AsZHbWrO.js",
+      "_selection-BIH10dGt.js"
     ]
   },
-  "_selection-eJ0t1F5N.js": {
-    "file": "assets/selection-eJ0t1F5N.js",
+  "_selection-BIH10dGt.js": {
+    "file": "assets/selection-BIH10dGt.js",
     "name": "selection",
     "imports": [
       "index.html",
@@ -318,15 +318,15 @@
       "src/island-generator/aeria/runtime.ts"
     ]
   },
-  "_sprout-NGZlQfec.js": {
-    "file": "assets/sprout-NGZlQfec.js",
+  "_sprout-Kug-HbmN.js": {
+    "file": "assets/sprout-Kug-HbmN.js",
     "name": "sprout",
     "imports": [
       "index.html"
     ]
   },
-  "_stage-D35UK7Ig.js": {
-    "file": "assets/stage-D35UK7Ig.js",
+  "_stage-CKyBQrFM.js": {
+    "file": "assets/stage-CKyBQrFM.js",
     "name": "stage",
     "imports": [
       "index.html"
@@ -340,28 +340,28 @@
       "node_modules/pixi.js/lib/scene/text-bitmap/BitmapFont.mjs"
     ]
   },
-  "_store-RjXNZ_wE.js": {
-    "file": "assets/store-RjXNZ_wE.js",
+  "_store-Cl4XI92l.js": {
+    "file": "assets/store-Cl4XI92l.js",
     "name": "store",
     "imports": [
-      "_sprout-NGZlQfec.js",
+      "_sprout-Kug-HbmN.js",
       "index.html",
-      "_x-D6iborhP.js",
-      "_model-yfywlzdQ.js"
+      "_x-yvc4Jpsh.js",
+      "_model-C2HiFRms.js"
     ]
   },
-  "_stroke-C4uecSaZ.js": {
-    "file": "assets/stroke-C4uecSaZ.js",
+  "_stroke-BEbL0Pp7.js": {
+    "file": "assets/stroke-BEbL0Pp7.js",
     "name": "stroke",
     "imports": [
-      "_sprout-NGZlQfec.js",
+      "_sprout-Kug-HbmN.js",
       "index.html",
-      "_model-yfywlzdQ.js",
-      "_rotate-ccw-BTku95GP.js",
-      "_droplets-BK1pProi.js",
-      "_store-RjXNZ_wE.js",
-      "_x-D6iborhP.js",
-      "_useRostokTransition-DDDCOo4I.js",
+      "_model-C2HiFRms.js",
+      "_rotate-ccw-8yCEKNsn.js",
+      "_droplets-Dq3vS6Vx.js",
+      "_store-Cl4XI92l.js",
+      "_x-yvc4Jpsh.js",
+      "_useRostokTransition-B8KT5Apw.js",
       "_rostokTransition-CpuWKuGN.js"
     ],
     "dynamicImports": [
@@ -449,16 +449,20 @@
     "file": "assets/types-j2oqv0Cf.js",
     "name": "types"
   },
-  "_useRostokTransition-DDDCOo4I.js": {
-    "file": "assets/useRostokTransition-DDDCOo4I.js",
+  "_useRostokTransition-B8KT5Apw.js": {
+    "file": "assets/useRostokTransition-B8KT5Apw.js",
     "name": "useRostokTransition",
     "imports": [
       "index.html",
       "_rostokTransition-CpuWKuGN.js"
     ]
   },
-  "_useStarHarvest-Cok-2wKY.js": {
-    "file": "assets/useStarHarvest-Cok-2wKY.js",
+  "_useStarHarvest-Dlc0Ej1h.css": {
+    "file": "assets/useStarHarvest-Dlc0Ej1h.css",
+    "src": "_useStarHarvest-Dlc0Ej1h.css"
+  },
+  "_useStarHarvest-DoWn1Wr0.js": {
+    "file": "assets/useStarHarvest-DoWn1Wr0.js",
     "name": "useStarHarvest",
     "imports": [
       "index.html"
@@ -467,15 +471,11 @@
       "assets/useStarHarvest-Dlc0Ej1h.css"
     ]
   },
-  "_useStarHarvest-Dlc0Ej1h.css": {
-    "file": "assets/useStarHarvest-Dlc0Ej1h.css",
-    "src": "_useStarHarvest-Dlc0Ej1h.css"
-  },
-  "_wind-SzPlq0G3.js": {
-    "file": "assets/wind-SzPlq0G3.js",
+  "_wind-AsZHbWrO.js": {
+    "file": "assets/wind-AsZHbWrO.js",
     "name": "wind",
     "imports": [
-      "_selection-eJ0t1F5N.js",
+      "_selection-BIH10dGt.js",
       "_render-BNq2rhkC.js"
     ],
     "assets": [
@@ -485,11 +485,11 @@
       "assets/instances-Dm_Cg2hc.json"
     ]
   },
-  "_x-D6iborhP.js": {
-    "file": "assets/x-D6iborhP.js",
+  "_x-yvc4Jpsh.js": {
+    "file": "assets/x-yvc4Jpsh.js",
     "name": "x",
     "imports": [
-      "_sprout-NGZlQfec.js"
+      "_sprout-Kug-HbmN.js"
     ]
   },
   "docs/references/trees/02-stylized-birch.png": {
@@ -533,7 +533,7 @@
     "src": "experiments/sakura-meshy/public/assets/wood.glb"
   },
   "index.html": {
-    "file": "assets/index-KHj59bJA.js",
+    "file": "assets/index-CTSm9RPZ.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -544,7 +544,7 @@
       "src/DevGarden2dWorkshop.tsx",
       "src/DevGarden2dEngine.tsx",
       "src/DevIslandGenerator.tsx",
-      "_DevTreeGenerator-c_rQsaIq.js",
+      "_DevTreeGenerator-DHTy6QUu.js",
       "src/DevRostok.tsx",
       "src/DevRostokTransition.tsx",
       "src/DevThreeAnimation.tsx",
@@ -553,107 +553,107 @@
     ]
   },
   "node_modules/pixi.js/lib/environment-browser/browserAll.mjs": {
-    "file": "assets/browserAll-CPNdxePs.js",
+    "file": "assets/browserAll-ZsCGvCXs.js",
     "name": "browserAll",
     "src": "node_modules/pixi.js/lib/environment-browser/browserAll.mjs",
     "isDynamicEntry": true,
     "imports": [
-      "_stage-D35UK7Ig.js",
+      "_stage-CKyBQrFM.js",
       "node_modules/pixi.js/lib/environment-webworker/webworkerAll.mjs",
       "index.html",
-      "_CanvasPool-CxnpbKhk.js",
-      "_Filter-C8ctMEBw.js"
+      "_CanvasPool-Ce87Euku.js",
+      "_Filter-DTsmXWBN.js"
     ]
   },
   "node_modules/pixi.js/lib/environment-webworker/webworkerAll.mjs": {
-    "file": "assets/webworkerAll-7IRdp-8D.js",
+    "file": "assets/webworkerAll-BMvi8yHp.js",
     "name": "webworkerAll",
     "src": "node_modules/pixi.js/lib/environment-webworker/webworkerAll.mjs",
     "isDynamicEntry": true,
     "imports": [
-      "_stage-D35UK7Ig.js",
-      "_CanvasPool-CxnpbKhk.js",
-      "_Filter-C8ctMEBw.js",
+      "_stage-CKyBQrFM.js",
+      "_CanvasPool-Ce87Euku.js",
+      "_Filter-DTsmXWBN.js",
       "index.html"
     ]
   },
   "node_modules/pixi.js/lib/rendering/renderers/canvas/CanvasRenderer.mjs": {
-    "file": "assets/CanvasRenderer-B-BlXVP6.js",
+    "file": "assets/CanvasRenderer-DgXMtzki.js",
     "name": "CanvasRenderer",
     "src": "node_modules/pixi.js/lib/rendering/renderers/canvas/CanvasRenderer.mjs",
     "isDynamicEntry": true,
     "imports": [
-      "_stage-D35UK7Ig.js",
-      "_RenderTargetSystem-BAbRiG-2.js",
+      "_stage-CKyBQrFM.js",
+      "_RenderTargetSystem-DAnPP9q8.js",
       "index.html",
-      "_Filter-C8ctMEBw.js",
-      "_CanvasPool-CxnpbKhk.js"
+      "_Filter-DTsmXWBN.js",
+      "_CanvasPool-Ce87Euku.js"
     ]
   },
   "node_modules/pixi.js/lib/rendering/renderers/gl/WebGLRenderer.mjs": {
-    "file": "assets/WebGLRenderer-Cy3QPdOq.js",
+    "file": "assets/WebGLRenderer-B8GZuvi9.js",
     "name": "WebGLRenderer",
     "src": "node_modules/pixi.js/lib/rendering/renderers/gl/WebGLRenderer.mjs",
     "isDynamicEntry": true,
     "imports": [
-      "_stage-D35UK7Ig.js",
-      "_BufferResource-CB7W8RTW.js",
-      "_RenderTargetSystem-BAbRiG-2.js",
+      "_stage-CKyBQrFM.js",
+      "_BufferResource-mNGNVzSE.js",
+      "_RenderTargetSystem-DAnPP9q8.js",
       "index.html",
-      "_Filter-C8ctMEBw.js",
-      "_CanvasPool-CxnpbKhk.js"
+      "_Filter-DTsmXWBN.js",
+      "_CanvasPool-Ce87Euku.js"
     ]
   },
   "node_modules/pixi.js/lib/rendering/renderers/gpu/WebGPURenderer.mjs": {
-    "file": "assets/WebGPURenderer-Bcb1KRNl.js",
+    "file": "assets/WebGPURenderer-D788a9Dk.js",
     "name": "WebGPURenderer",
     "src": "node_modules/pixi.js/lib/rendering/renderers/gpu/WebGPURenderer.mjs",
     "isDynamicEntry": true,
     "imports": [
-      "_stage-D35UK7Ig.js",
-      "_BufferResource-CB7W8RTW.js",
-      "_RenderTargetSystem-BAbRiG-2.js",
-      "_CanvasPool-CxnpbKhk.js",
+      "_stage-CKyBQrFM.js",
+      "_BufferResource-mNGNVzSE.js",
+      "_RenderTargetSystem-DAnPP9q8.js",
+      "_CanvasPool-Ce87Euku.js",
       "index.html",
-      "_Filter-C8ctMEBw.js"
+      "_Filter-DTsmXWBN.js"
     ]
   },
   "node_modules/pixi.js/lib/scene/text-bitmap/BitmapFont.mjs": {
-    "file": "assets/BitmapFont-98BZFaAA.js",
+    "file": "assets/BitmapFont-CM-Kxsb6.js",
     "name": "BitmapFont",
     "src": "node_modules/pixi.js/lib/scene/text-bitmap/BitmapFont.mjs",
     "isDynamicEntry": true,
     "imports": [
-      "_stage-D35UK7Ig.js",
-      "_CanvasPool-CxnpbKhk.js",
+      "_stage-CKyBQrFM.js",
+      "_CanvasPool-Ce87Euku.js",
       "index.html"
     ]
   },
   "src/App.tsx": {
-    "file": "assets/App-Df79eLZ4.js",
+    "file": "assets/App-BHJm6kfC.js",
     "name": "App",
     "src": "src/App.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_model-yfywlzdQ.js",
-      "_store-RjXNZ_wE.js",
-      "_stroke-C4uecSaZ.js",
-      "_Garden2dEngineView-DuSRdIOz.js",
+      "_model-C2HiFRms.js",
+      "_store-Cl4XI92l.js",
+      "_stroke-BEbL0Pp7.js",
+      "_Garden2dEngineView-DYj0aq_U.js",
       "_pageTransitionChoice-tv59eJUM.js",
-      "_useStarHarvest-Cok-2wKY.js",
-      "_CloudHint-BVvR_Osu.js",
+      "_useStarHarvest-DoWn1Wr0.js",
+      "_CloudHint-CbTHLv3v.js",
       "_types-j2oqv0Cf.js",
-      "_sprout-NGZlQfec.js",
-      "_leaf-XL0ZI_FN.js",
-      "_x-D6iborhP.js",
-      "_rotate-ccw-BTku95GP.js",
-      "_droplets-BK1pProi.js",
-      "_useRostokTransition-DDDCOo4I.js",
+      "_sprout-Kug-HbmN.js",
+      "_leaf-DfdOAZ2J.js",
+      "_x-yvc4Jpsh.js",
+      "_rotate-ccw-8yCEKNsn.js",
+      "_droplets-Dq3vS6Vx.js",
+      "_useRostokTransition-B8KT5Apw.js",
       "_rostokTransition-CpuWKuGN.js",
-      "_download-B8AuxGyy.js",
+      "_download-BbqRPUPN.js",
       "_package-ChGZvQ4x.js",
-      "_stage-D35UK7Ig.js"
+      "_stage-CKyBQrFM.js"
     ],
     "dynamicImports": [
       "src/Scene.tsx",
@@ -683,30 +683,30 @@
     ]
   },
   "src/DevBoyAnimation.tsx": {
-    "file": "assets/DevBoyAnimation-BoSf9-B4.js",
+    "file": "assets/DevBoyAnimation-AhoaBlYm.js",
     "name": "DevBoyAnimation",
     "src": "src/DevBoyAnimation.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_OrbitControls-DBCmt1rp.js",
+      "_OrbitControls-Bm-A_yce.js",
       "_GLTFLoader-24JCs9hj.js",
       "_clips--yBidqhF.js",
       "_library-D3ODAv0I.js",
-      "_events-9ce18a08.esm-Bx5OCOZc.js"
+      "_events-9ce18a08.esm-CDhcJJg5.js"
     ],
     "css": [
       "assets/DevBoyAnimation-COS74DVG.css"
     ]
   },
   "src/DevBoyIsland.tsx": {
-    "file": "assets/DevBoyIsland-D2H9ecEv.js",
+    "file": "assets/DevBoyIsland-DmR7fZne.js",
     "name": "DevBoyIsland",
     "src": "src/DevBoyIsland.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_PerformancePanel-BL_6e5LF.js"
+      "_PerformancePanel-DP9PYgQk.js"
     ],
     "dynamicImports": [
       "src/floating-garden/Comparison.tsx"
@@ -716,7 +716,7 @@
     ]
   },
   "src/DevGarden2dEngine.tsx": {
-    "file": "assets/DevGarden2dEngine-DtTg2r-c.js",
+    "file": "assets/DevGarden2dEngine-DeT4ExdC.js",
     "name": "DevGarden2dEngine",
     "src": "src/DevGarden2dEngine.tsx",
     "isDynamicEntry": true,
@@ -732,21 +732,21 @@
     ]
   },
   "src/DevGarden2dWorkshop.tsx": {
-    "file": "assets/DevGarden2dWorkshop-C2z2_o1c.js",
+    "file": "assets/DevGarden2dWorkshop-OqxeJoGd.js",
     "name": "DevGarden2dWorkshop",
     "src": "src/DevGarden2dWorkshop.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_store-RjXNZ_wE.js",
-      "_model-yfywlzdQ.js",
-      "_Garden2dEngineView-DuSRdIOz.js",
-      "_useStarHarvest-Cok-2wKY.js",
-      "_sprout-NGZlQfec.js",
-      "_x-D6iborhP.js",
-      "_download-B8AuxGyy.js",
+      "_store-Cl4XI92l.js",
+      "_model-C2HiFRms.js",
+      "_Garden2dEngineView-DYj0aq_U.js",
+      "_useStarHarvest-DoWn1Wr0.js",
+      "_sprout-Kug-HbmN.js",
+      "_x-yvc4Jpsh.js",
+      "_download-BbqRPUPN.js",
       "_package-ChGZvQ4x.js",
-      "_stage-D35UK7Ig.js"
+      "_stage-CKyBQrFM.js"
     ],
     "css": [
       "assets/DevGarden2dWorkshop-Bc9Z0iKF.css",
@@ -754,7 +754,7 @@
     ]
   },
   "src/DevIndex.tsx": {
-    "file": "assets/DevIndex-NUhuTq5k.js",
+    "file": "assets/DevIndex-CC0mmDdM.js",
     "name": "DevIndex",
     "src": "src/DevIndex.tsx",
     "isDynamicEntry": true,
@@ -767,17 +767,17 @@
     ]
   },
   "src/DevIslandGenerator.tsx": {
-    "file": "assets/DevIslandGenerator-SwC65DD2.js",
+    "file": "assets/DevIslandGenerator-B9HRafQ5.js",
     "name": "DevIslandGenerator",
     "src": "src/DevIslandGenerator.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_aeria-document-GTBZOtju.js",
-      "_selection-eJ0t1F5N.js",
+      "_selection-BIH10dGt.js",
       "_render-BNq2rhkC.js",
-      "_OrbitControls-DBCmt1rp.js",
-      "_events-9ce18a08.esm-Bx5OCOZc.js",
+      "_OrbitControls-Bm-A_yce.js",
+      "_events-9ce18a08.esm-CDhcJJg5.js",
       "_GLTFLoader-24JCs9hj.js",
       "_collector-BBOCQ_v2.js",
       "_rostokTransition-CpuWKuGN.js"
@@ -790,7 +790,7 @@
     ]
   },
   "src/DevRostok.tsx": {
-    "file": "assets/DevRostok-wCxqkNxh.js",
+    "file": "assets/DevRostok-CcD8qTS8.js",
     "name": "DevRostok",
     "src": "src/DevRostok.tsx",
     "isDynamicEntry": true,
@@ -800,7 +800,7 @@
     ]
   },
   "src/DevRostokTransition.tsx": {
-    "file": "assets/DevRostokTransition-BS16JzqP.js",
+    "file": "assets/DevRostokTransition-COthb2aG.js",
     "name": "DevRostokTransition",
     "src": "src/DevRostokTransition.tsx",
     "isDynamicEntry": true,
@@ -809,17 +809,17 @@
       "src/Scene.tsx",
       "src/RostokScene.tsx",
       "_rostokTransition-CpuWKuGN.js",
-      "_useRostokTransition-DDDCOo4I.js",
-      "_OrbitControls-DBCmt1rp.js",
-      "_events-9ce18a08.esm-Bx5OCOZc.js",
+      "_useRostokTransition-B8KT5Apw.js",
+      "_OrbitControls-Bm-A_yce.js",
+      "_events-9ce18a08.esm-CDhcJJg5.js",
       "_GLTFLoader-24JCs9hj.js",
-      "_model-yfywlzdQ.js",
-      "_GardenScene-SlVYljej.js",
-      "_runtime-Cq6_qtzt.js",
+      "_model-C2HiFRms.js",
+      "_GardenScene-C7x-ODAp.js",
+      "_runtime-B_JHDnQ-.js",
       "_render-BNq2rhkC.js",
-      "_wind-SzPlq0G3.js",
-      "_selection-eJ0t1F5N.js",
-      "_AeriaGroundContext-DS_yXMKv.js",
+      "_wind-AsZHbWrO.js",
+      "_selection-BIH10dGt.js",
+      "_AeriaGroundContext-DRQeByL2.js",
       "_foliage-light-BJpfoV-H.js",
       "_types-j2oqv0Cf.js"
     ],
@@ -828,99 +828,99 @@
     ]
   },
   "src/DevThreeAnimation.tsx": {
-    "file": "assets/DevThreeAnimation-WwzPB7pa.js",
+    "file": "assets/DevThreeAnimation-BzIZTEom.js",
     "name": "DevThreeAnimation",
     "src": "src/DevThreeAnimation.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_GardenScene-SlVYljej.js",
-      "_PerformancePanel-BL_6e5LF.js",
-      "_useStarHarvest-Cok-2wKY.js",
-      "_CloudHint-BVvR_Osu.js",
-      "_sprout-NGZlQfec.js",
+      "_GardenScene-C7x-ODAp.js",
+      "_PerformancePanel-DP9PYgQk.js",
+      "_useStarHarvest-DoWn1Wr0.js",
+      "_CloudHint-CbTHLv3v.js",
+      "_sprout-Kug-HbmN.js",
       "src/garden-scene/StarHarvest.tsx",
       "_clips--yBidqhF.js",
-      "_selection-eJ0t1F5N.js",
-      "_links-D4Q_W8XI.js",
-      "_runtime-Cq6_qtzt.js",
-      "_events-9ce18a08.esm-Bx5OCOZc.js",
+      "_selection-BIH10dGt.js",
+      "_links-DWn9GbGH.js",
+      "_runtime-B_JHDnQ-.js",
+      "_events-9ce18a08.esm-CDhcJJg5.js",
       "_collector-BBOCQ_v2.js",
       "_GLTFLoader-24JCs9hj.js",
-      "_OrbitControls-DBCmt1rp.js",
-      "_model-yfywlzdQ.js",
+      "_OrbitControls-Bm-A_yce.js",
+      "_model-C2HiFRms.js",
       "_rostokTransition-CpuWKuGN.js",
       "_files-BuygaZMv.js",
       "_recipes-Z-JmS1rT.js",
-      "_rotate-ccw-BTku95GP.js",
-      "_x-D6iborhP.js",
-      "_maximize-2-3rhK85Qb.js",
-      "_droplets-BK1pProi.js",
+      "_rotate-ccw-8yCEKNsn.js",
+      "_x-yvc4Jpsh.js",
+      "_maximize-2-ODHFxFff.js",
+      "_droplets-Dq3vS6Vx.js",
       "_render-BNq2rhkC.js",
-      "_AeriaGroundContext-DS_yXMKv.js",
+      "_AeriaGroundContext-DRQeByL2.js",
       "_foliage-light-BJpfoV-H.js",
       "_types-j2oqv0Cf.js",
-      "_wind-SzPlq0G3.js"
+      "_wind-AsZHbWrO.js"
     ],
     "css": [
       "assets/DevThreeAnimation-Cp5-2PhQ.css"
     ]
   },
   "src/GardenClassicApp.tsx": {
-    "file": "assets/GardenClassicApp-Bn8zwpiN.js",
+    "file": "assets/GardenClassicApp-BgIok_vW.js",
     "name": "GardenClassicApp",
     "src": "src/GardenClassicApp.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_model-yfywlzdQ.js",
-      "_store-RjXNZ_wE.js",
-      "_stroke-C4uecSaZ.js",
+      "_model-C2HiFRms.js",
+      "_store-Cl4XI92l.js",
+      "_stroke-BEbL0Pp7.js",
       "_package-ChGZvQ4x.js",
       "src/Scene.tsx",
-      "_sprout-NGZlQfec.js",
-      "_rotate-ccw-BTku95GP.js",
-      "_maximize-2-3rhK85Qb.js",
-      "_x-D6iborhP.js",
-      "_droplets-BK1pProi.js",
-      "_leaf-XL0ZI_FN.js",
-      "_useRostokTransition-DDDCOo4I.js",
+      "_sprout-Kug-HbmN.js",
+      "_rotate-ccw-8yCEKNsn.js",
+      "_maximize-2-ODHFxFff.js",
+      "_x-yvc4Jpsh.js",
+      "_droplets-Dq3vS6Vx.js",
+      "_leaf-DfdOAZ2J.js",
+      "_useRostokTransition-B8KT5Apw.js",
       "_rostokTransition-CpuWKuGN.js",
-      "_OrbitControls-DBCmt1rp.js",
-      "_events-9ce18a08.esm-Bx5OCOZc.js",
+      "_OrbitControls-Bm-A_yce.js",
+      "_events-9ce18a08.esm-CDhcJJg5.js",
       "_GLTFLoader-24JCs9hj.js",
-      "_GardenScene-SlVYljej.js",
-      "_runtime-Cq6_qtzt.js",
+      "_GardenScene-C7x-ODAp.js",
+      "_runtime-B_JHDnQ-.js",
       "_render-BNq2rhkC.js",
-      "_wind-SzPlq0G3.js",
-      "_selection-eJ0t1F5N.js",
-      "_AeriaGroundContext-DS_yXMKv.js",
+      "_wind-AsZHbWrO.js",
+      "_selection-BIH10dGt.js",
+      "_AeriaGroundContext-DRQeByL2.js",
       "_foliage-light-BJpfoV-H.js",
       "_types-j2oqv0Cf.js"
     ]
   },
   "src/MergedTreeWorkshop.tsx": {
-    "file": "assets/MergedTreeWorkshop-C47rN3xx.js",
+    "file": "assets/MergedTreeWorkshop-Gu56VL9q.js",
     "name": "MergedTreeWorkshop",
     "src": "src/MergedTreeWorkshop.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_links-D4Q_W8XI.js",
+      "_links-DWn9GbGH.js",
       "_GLTFLoader-24JCs9hj.js",
-      "_OrbitControls-DBCmt1rp.js",
-      "_runtime-Cq6_qtzt.js",
-      "_DevTreeGenerator-c_rQsaIq.js",
-      "_selection-eJ0t1F5N.js",
-      "_events-9ce18a08.esm-Bx5OCOZc.js",
+      "_OrbitControls-Bm-A_yce.js",
+      "_runtime-B_JHDnQ-.js",
+      "_DevTreeGenerator-DHTy6QUu.js",
+      "_selection-BIH10dGt.js",
+      "_events-9ce18a08.esm-CDhcJJg5.js",
       "_render-BNq2rhkC.js",
-      "_wind-SzPlq0G3.js",
+      "_wind-AsZHbWrO.js",
       "_recipes-Z-JmS1rT.js",
       "_engine-D1WY6WQA.js",
-      "_rotate-ccw-BTku95GP.js",
-      "_sprout-NGZlQfec.js",
-      "_leaf-XL0ZI_FN.js",
-      "_download-B8AuxGyy.js",
+      "_rotate-ccw-8yCEKNsn.js",
+      "_sprout-Kug-HbmN.js",
+      "_leaf-DfdOAZ2J.js",
+      "_download-BbqRPUPN.js",
       "_rostokTransition-CpuWKuGN.js"
     ],
     "css": [
@@ -928,7 +928,7 @@
     ]
   },
   "src/RostokScene.tsx": {
-    "file": "assets/RostokScene-Dnzwvm8T.js",
+    "file": "assets/RostokScene-B5owQSz6.js",
     "name": "RostokScene",
     "src": "src/RostokScene.tsx",
     "isDynamicEntry": true,
@@ -940,25 +940,25 @@
     ]
   },
   "src/Scene.tsx": {
-    "file": "assets/Scene-DvRRSylX.js",
+    "file": "assets/Scene-Dlilrb-j.js",
     "name": "Scene",
     "src": "src/Scene.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_OrbitControls-DBCmt1rp.js",
-      "_model-yfywlzdQ.js",
-      "_GardenScene-SlVYljej.js",
-      "_selection-eJ0t1F5N.js",
-      "_runtime-Cq6_qtzt.js",
-      "_events-9ce18a08.esm-Bx5OCOZc.js",
+      "_OrbitControls-Bm-A_yce.js",
+      "_model-C2HiFRms.js",
+      "_GardenScene-C7x-ODAp.js",
+      "_selection-BIH10dGt.js",
+      "_runtime-B_JHDnQ-.js",
+      "_events-9ce18a08.esm-CDhcJJg5.js",
       "_GLTFLoader-24JCs9hj.js",
       "_render-BNq2rhkC.js",
-      "_AeriaGroundContext-DS_yXMKv.js",
+      "_AeriaGroundContext-DRQeByL2.js",
       "_foliage-light-BJpfoV-H.js",
       "_types-j2oqv0Cf.js",
       "_rostokTransition-CpuWKuGN.js",
-      "_wind-SzPlq0G3.js"
+      "_wind-AsZHbWrO.js"
     ]
   },
   "src/assets/child-task-list/brush-teeth.jpg": {
@@ -1198,7 +1198,7 @@
     "src": "src/characters/birds/assets/birds.glb"
   },
   "src/floating-garden/Comparison.tsx": {
-    "file": "assets/Comparison-DilwLiZo.js",
+    "file": "assets/Comparison-BEaZUH1Y.js",
     "name": "Comparison",
     "src": "src/floating-garden/Comparison.tsx",
     "isDynamicEntry": true,
@@ -1217,13 +1217,13 @@
     ]
   },
   "src/garden-2d/engine/EngineView.tsx": {
-    "file": "assets/EngineView-CIyg7Xd-.js",
+    "file": "assets/EngineView-NL1Y7chl.js",
     "name": "EngineView",
     "src": "src/garden-2d/engine/EngineView.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_stage-D35UK7Ig.js"
+      "_stage-CKyBQrFM.js"
     ],
     "css": [
       "assets/DevGarden2dWorkshop-Bc9Z0iKF.css",
@@ -1231,30 +1231,30 @@
     ]
   },
   "src/garden-scene/GardenBirds.tsx": {
-    "file": "assets/GardenBirds-lG9UavbD.js",
+    "file": "assets/GardenBirds-C2nZo1kT.js",
     "name": "GardenBirds",
     "src": "src/garden-scene/GardenBirds.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_three-view-BldmYu4k.js",
-      "_GardenScene-SlVYljej.js",
-      "_events-9ce18a08.esm-Bx5OCOZc.js",
+      "_GardenScene-C7x-ODAp.js",
+      "_events-9ce18a08.esm-CDhcJJg5.js",
       "_GLTFLoader-24JCs9hj.js",
-      "_model-yfywlzdQ.js",
-      "_runtime-Cq6_qtzt.js",
+      "_model-C2HiFRms.js",
+      "_runtime-B_JHDnQ-.js",
       "_render-BNq2rhkC.js",
-      "_wind-SzPlq0G3.js",
-      "_selection-eJ0t1F5N.js",
+      "_wind-AsZHbWrO.js",
+      "_selection-BIH10dGt.js",
       "_rostokTransition-CpuWKuGN.js",
-      "_OrbitControls-DBCmt1rp.js",
-      "_AeriaGroundContext-DS_yXMKv.js",
+      "_OrbitControls-Bm-A_yce.js",
+      "_AeriaGroundContext-DRQeByL2.js",
       "_foliage-light-BJpfoV-H.js",
       "_types-j2oqv0Cf.js"
     ]
   },
   "src/garden-scene/GardenSunny.tsx": {
-    "file": "assets/GardenSunny-DAYEqFmQ.js",
+    "file": "assets/GardenSunny-DBREiRju.js",
     "name": "GardenSunny",
     "src": "src/garden-scene/GardenSunny.tsx",
     "isDynamicEntry": true,
@@ -1264,21 +1264,21 @@
       "_clips--yBidqhF.js",
       "_library-D3ODAv0I.js",
       "_foliage-light-BJpfoV-H.js",
-      "_AeriaGroundContext-DS_yXMKv.js",
+      "_AeriaGroundContext-DRQeByL2.js",
       "_three-view-BldmYu4k.js",
-      "_events-9ce18a08.esm-Bx5OCOZc.js"
+      "_events-9ce18a08.esm-CDhcJJg5.js"
     ]
   },
   "src/garden-scene/StarHarvest.tsx": {
-    "file": "assets/StarHarvest-C64NLRnx.js",
+    "file": "assets/StarHarvest-BJolnKZT.js",
     "name": "StarHarvest",
     "src": "src/garden-scene/StarHarvest.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_GLTFLoader-24JCs9hj.js",
-      "_AeriaGroundContext-DS_yXMKv.js",
-      "_events-9ce18a08.esm-Bx5OCOZc.js"
+      "_AeriaGroundContext-DRQeByL2.js",
+      "_events-9ce18a08.esm-CDhcJJg5.js"
     ]
   },
   "src/island-generator/aeria/assets/island.glb": {
