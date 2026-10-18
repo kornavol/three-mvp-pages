@@ -1,7 +1,7 @@
 {
   "base": "/",
   "prefix": "quiet-garden-pwa:/:",
-  "revision": "251cee03ae9e692a969b",
+  "revision": "2b347d7cbdfe74b181b5",
   "resources": [
     {
       "url": "/assets/1f319-CaX6bsG-.svg",
@@ -148,64 +148,64 @@
       "hash": "35ba477f2cd01990a2712384b2ad5c2f9b0ec1def9ad94aaec139ed27f5286cf"
     },
     {
-      "url": "/assets/App-BJKnqXSQ.js",
-      "hash": "a0e6c05b5b4f337061b33d4b0c688a6f4b8669836064661b6669ee39346f141a"
+      "url": "/assets/App-CJjo0TQM.js",
+      "hash": "709e8dee34bfaa9f294d4bfa97d5a0cf468a4f1dd1bf502f70cde36c28729934"
     },
     {
-      "url": "/assets/App-CzijZsMx.css",
-      "hash": "3801700a2c5fb147f6c779279c20bb1cc404a004e3529938c5ec2e85b36c47e5"
+      "url": "/assets/App-qSZ0SoTw.css",
+      "hash": "781eedc54668d3761af5b7b5c3430f58beecc56c3db05d8d040b8dd5c959e1dc"
     },
     {
-      "url": "/assets/BitmapFont-CCfyz1b5.js",
-      "hash": "80d38eb1821002d119283ddee8ed85e77e829ca7e3bd9f6f82b4e655defca236"
+      "url": "/assets/BitmapFont-Ba3TgRH7.js",
+      "hash": "954aab9c3730923afdef240ffe6265364d647d7b46c801753e4b1da211645c04"
     },
     {
-      "url": "/assets/BufferResource-DVkrGHZ5.js",
-      "hash": "67f9e320b591d63744fe7419f7a5d589f043c0b0e9f40fadc1c66c7611af0aa9"
+      "url": "/assets/BufferResource-DUM9oPob.js",
+      "hash": "94be8f4b0426275a671b411ddd9371dabad554bb467b03d5786f8571968d9168"
     },
     {
-      "url": "/assets/CanvasPool-GUMRVxWy.js",
-      "hash": "e423e2382b9794526844c298ba8c800dc242a269f1524f7840f1e75f9bae37c1"
+      "url": "/assets/CanvasPool-BOZcI3j8.js",
+      "hash": "63ea9daa8d59a1382c877f520a597b1e27f4f4810975bbb5a0da9278aea946f7"
     },
     {
-      "url": "/assets/CanvasRenderer-otRDQVvV.js",
-      "hash": "63e9b8916f85797ebf9bb64c662c843abd9619ba05833b54aefb128280069f6f"
+      "url": "/assets/CanvasRenderer-mUamOYNs.js",
+      "hash": "2e95b693c274c9e33b580764de831213cdc6f0dcd8fad1e66068a57ce193c94e"
     },
     {
-      "url": "/assets/CloudHint-ByeQsVqQ.js",
-      "hash": "c01c92ee80dbac0c7ff063f688b0ff4894b9edbaf8f5ad56a1af63395a9da204"
+      "url": "/assets/CloudHint-2mVZPMWa.js",
+      "hash": "73717390e4d4ee5a7fcd8b80919173115d01c02e41c8185edb5d289f51630d6d"
     },
     {
-      "url": "/assets/Filter-CQas0PuP.js",
-      "hash": "b8c0a88c978b1368ba0bd6c8307878bf73c5fd33c14b5418faf11a54e41f137c"
+      "url": "/assets/Filter-Bkz1aICV.js",
+      "hash": "591b56735fe6612d323b7943820da691deac33f288b32a455084bb22631a2f3d"
     },
     {
-      "url": "/assets/Garden2dEngineView-D8eSUPvg.css",
-      "hash": "adfc64f99d60f7d3b6c4683d6c1bbcad5d3014acd8782ae24f54028db9e0a0c7"
+      "url": "/assets/Garden2dEngineView-C7up-6QZ.js",
+      "hash": "b56959896296ef213966a2ce57c90e8feaffcc6231ebb878d57d55c61bedef4a"
     },
     {
-      "url": "/assets/Garden2dEngineView-DtrCswvM.js",
-      "hash": "213d43a9d34e64bc7f6716367f865a02e5bdc2ba5d9ddf2d793eaeddb4f49e9d"
+      "url": "/assets/Garden2dEngineView-Cl-TSnlo.css",
+      "hash": "d6d9f8317fea4f6fa10fb8e88772aef71c25f926d8499d4af3b26543fea5e925"
     },
     {
-      "url": "/assets/RenderTargetSystem-BxKxuAhU.js",
-      "hash": "e4ab21c5bbebe71af3e541a8727dc94bf439d7c8fd7334bd9a63c060c25b46e3"
+      "url": "/assets/RenderTargetSystem-CuRDxo6Y.js",
+      "hash": "9cd8da9b140c77116725fae5d49bbd4035def194aa1a2d6f368732618f858db7"
     },
     {
-      "url": "/assets/RostokScene-BlyymzLc.js",
-      "hash": "1751257bf6a27d1e5b91df2354e57d751336e39022f812c1705d4363f8acd35a"
+      "url": "/assets/RostokScene-Be3AL6lf.js",
+      "hash": "27b545d263a9439dacff1dae7d96a73f841838ff0a2df20294d8daacf98b7616"
     },
     {
       "url": "/assets/RostokScene-mPhEZ_G8.css",
       "hash": "fc7a17b3edaac4719da17b9c07ff201390c994806b804fa52bdce46c6a1c3f1c"
     },
     {
-      "url": "/assets/WebGLRenderer-B3h90QxD.js",
-      "hash": "95708a4eba01f8db28a074f722e4b4d84c344aaa77b6200dad2494c5ffb21150"
+      "url": "/assets/WebGLRenderer-DOSQ2l9Y.js",
+      "hash": "6cd0558ff939a5dc702ce098d6c569d5243e9f185637c8c950c57bef78839ca2"
     },
     {
-      "url": "/assets/WebGPURenderer-DRZ4OTzc.js",
-      "hash": "df137a6890a970873235d04e89a4e7675624c751c3b2e1a4600d5e748d83bda9"
+      "url": "/assets/WebGPURenderer-DLFEVvxX.js",
+      "hash": "e33d55b936dde36c3bf0595c79a7dc3d4fbf9264a085488592373b67748438fb"
     },
     {
       "url": "/assets/apple-Bt5vtSUZ.webp",
@@ -220,8 +220,8 @@
       "hash": "e325bcac14a628fc7dc097b8b106b3109733a7cd533ae45825c0f52344af6c91"
     },
     {
-      "url": "/assets/browserAll-D8lewVry.js",
-      "hash": "d4f15529591c08d7d5e84c8d7b05310a5992c4ba8eee99a63688231a0bd758c7"
+      "url": "/assets/browserAll-MZxDvpnl.js",
+      "hash": "74df47efe0249185d8c7534d150678c89ef788c2ca196f203b2285495edc6461"
     },
     {
       "url": "/assets/brush-teeth-F0wP4dhV.jpg",
@@ -236,12 +236,12 @@
       "hash": "d3e46cfb9cdcb67ad17e5997b0e241f311f02c42fcac91c20b4a3d11734aca0b"
     },
     {
-      "url": "/assets/download-CZjj38h_.js",
-      "hash": "6b8a6d9c390faa06d2ae48dd33d3f9bb1b8f05d1b25498c613d9e5df06221b0b"
+      "url": "/assets/download-2Woq9LmL.js",
+      "hash": "0a8b03c4cd91873ba8d4a89da49a0b3575e13f4c05c3915f1c7da95a5f6db68b"
     },
     {
-      "url": "/assets/droplets-Cf_lw12w.js",
-      "hash": "d60a2c6eb7a44d2e6a3c88f883a240531a21d8fee457c68e183bc14f67270d58"
+      "url": "/assets/droplets-DfbaK5kK.js",
+      "hash": "4602c9206fc58e35d09c63d3ceebf9c4eba71f41f334e6421081df0da4771868"
     },
     {
       "url": "/assets/eat-meal-DHwVKhqY.jpg",
@@ -264,6 +264,10 @@
       "hash": "41c471e6b50b0674fffa54b031dcf9e8b87875f39781106ca21fda4ad99d85fb"
     },
     {
+      "url": "/assets/gift-chest-ZHY56BLA.webp",
+      "hash": "69d644433c2ae2c4ab4d152694709ed6846f973de7eb73bc9aaae1494af0cee0"
+    },
+    {
       "url": "/assets/gift-open-CoCrk-7z.webp",
       "hash": "b88f369cd545633b13bb7770f04d0668cf549678565eabfb59c0830c5d1ce1e7"
     },
@@ -280,20 +284,20 @@
       "hash": "936e46f6a686b7af08adc06298a08db0aeab78fe2a76d44c076c544fad629a5b"
     },
     {
-      "url": "/assets/index-CIj4EAgX.js",
-      "hash": "a4b95e9f544e0c20d348231b2577c01ffacf74f84b2a54edd6bc39ebd056e16b"
+      "url": "/assets/index-AaVF9eVh.js",
+      "hash": "b521eb9808066c1d38bce5548c15f0a9ac2d76720ef67d20c414b342c58f8576"
     },
     {
-      "url": "/assets/index-D-V_cNJC.js",
-      "hash": "cd8e936c1cc2ea478200a411a1da86636699c4766da3bb0c45be460c0f50356e"
+      "url": "/assets/index-BAw6vWJc.js",
+      "hash": "52fe0664511b5ae245699abaa7fbc8c474b499a9a0a0fcec032e0f034d86f347"
     },
     {
-      "url": "/assets/index-DmYo8d1c.js",
-      "hash": "6f792cbcf737e60aa2deba83e1614c7ffc225d9915649bbc00729ad732ab955d"
+      "url": "/assets/index-xQroYU03.js",
+      "hash": "909ecfe4b7bacb502458c660cf626e98535012ceb706893f9c9e44b023980241"
     },
     {
-      "url": "/assets/leaf-BWPEjADK.js",
-      "hash": "2b02995e3d3e7e0376903d4a1cd478b30995b8a6c0376f1503fe50e4015ad9af"
+      "url": "/assets/leaf-DM3-G-wM.js",
+      "hash": "d4e04acfd5389417b6d7796596c3438503be40fa5999f916ca44c5a620ac657a"
     },
     {
       "url": "/assets/linden-B2ymMD4Z.webp",
@@ -304,8 +308,8 @@
       "hash": "42eef3aaf768fc0993d7f24f66febbc7f65c91d5f63c5eb0dd7537d8a5a4d761"
     },
     {
-      "url": "/assets/model-BajRoxgS.js",
-      "hash": "d146201716d427724bda85afc25bcc8c4d2ed460d75abe3ed3439e5f919a96bf"
+      "url": "/assets/model-8bHf0SP9.js",
+      "hash": "8e293c3af9225a67a27d9fb64602a7f368fbc5335913731a3f2a974f5d201eb3"
     },
     {
       "url": "/assets/mushrooms-B4NP52pu.webp",
@@ -316,8 +320,8 @@
       "hash": "3bbfeb649b7c9f4f24770c2e53368bc78b9f6b3a406b11a92f08cb4996b47cb8"
     },
     {
-      "url": "/assets/package-latA2WDe.js",
-      "hash": "44bcfb6d6d3460129ac0cddb6f8b7dbdbc4bd3f893d66093e46bf089c68fc88a"
+      "url": "/assets/package-Byp7UgLw.js",
+      "hash": "a9013cbd050fff0c3ba36c7d3799ad4ce1233e51d817e730e6db0fd9eecbba3b"
     },
     {
       "url": "/assets/pageTransitionChoice-tv59eJUM.js",
@@ -356,36 +360,36 @@
       "hash": "935bcbc0e4f328ee838bc723135c0e3a095588cc4748e76c2ffce5a98c0d3faf"
     },
     {
-      "url": "/assets/rotate-ccw-dcR3TDsR.js",
-      "hash": "be62bb36c2f42e3e128cdecc479443eeabdb351c72cb7d4f2ad1bd1eced89d29"
+      "url": "/assets/rotate-ccw-DiyrfEHn.js",
+      "hash": "bebcb2072a1efd3e67300e48ec52bdce8910978abcfcb3c90887a7d6702c414e"
     },
     {
-      "url": "/assets/sprout-CdEtuT7p.js",
-      "hash": "4b6886b64fa627176b811e78a8ece36d155b1ca853de0231eec46af6715031ae"
+      "url": "/assets/sprout-CzkR5Epz.js",
+      "hash": "fb35b4ae90fed783bf7fa324728bce23137704751222fb6b19f6865d1340c834"
     },
     {
       "url": "/assets/squirrel-DN9uliaE.webp",
       "hash": "70c02f7a1d4df41aeb1187385543d153dec4ea77ed7614704ce64f80a6df5aaf"
     },
     {
-      "url": "/assets/stage-DQXL2Yjg.js",
-      "hash": "2c005fc794b3de3b2514b5baf42e520d40e6c53808de16301590baf8029ef584"
+      "url": "/assets/stage-DgfzL4Ex.js",
+      "hash": "6ec78d7ebbbc757b66ffcd19be93a0c5bb64d3a2d2766ed9ab6fba0ffe641276"
     },
     {
-      "url": "/assets/store-BgBJnHBo.js",
-      "hash": "c67715743f9203aa1cca462a0e5c2e0e76f638f9fbce4842251ce6a8edf3da1c"
+      "url": "/assets/store-CzpcCZ36.js",
+      "hash": "0f21f5891ee85bc0c47fba6590c3723ce0b140272f16ce61ecae9c3c993b278e"
+    },
+    {
+      "url": "/assets/stroke-BKy5quis.js",
+      "hash": "0d3eddf467097fcad43d65270bf075ea0c3b51e4d42e4d2907291fa15292ae4f"
     },
     {
       "url": "/assets/stroke-Cj-gvGkt.css",
       "hash": "47ef59815440b6471114c973cb76451e67abbe0f740ff268e9de16c548de7a3e"
     },
     {
-      "url": "/assets/stroke-OhtEbcuK.js",
-      "hash": "dfa1f8d552c7e2e9df1ebd3562bdbb04e4c705ffc0d70266c0958ff687da632c"
-    },
-    {
-      "url": "/assets/style-DfsJFP37.css",
-      "hash": "a11a241650d446587500ba64677ee81c68c272f9ff4aaa58d908b3ed16c64996"
+      "url": "/assets/style-B9bxubLN.css",
+      "hash": "981eb4121808d39f8efaf69f1c86e0dcb8c3adc5acdcd6dfaa95770f58e77d5e"
     },
     {
       "url": "/assets/time-day-Ca6ZLQhl.jpg",
@@ -432,12 +436,12 @@
       "hash": "65cc639e1aad18d9bd11a13ea769be20e667082db93b69ae48924c7694add61d"
     },
     {
-      "url": "/assets/useRostokTransition-DDcx9-Zd.js",
-      "hash": "4f835ffc575b7b14a23143311f8508b4a52953515f9526e1b0870ac65a3d0417"
+      "url": "/assets/useRostokTransition-DgsznLIw.js",
+      "hash": "aa8299fc3e0ab3878ee6b62b109f1d41e1cb1dd34cf37bdc210db1d0fc74a223"
     },
     {
-      "url": "/assets/useStarHarvest-CZpOviVF.js",
-      "hash": "7a034d406891510f6588a5c0b4f18cb472ad233d1a5b90312da554c3a3939814"
+      "url": "/assets/useStarHarvest-BFw4FFJg.js",
+      "hash": "88b59b4690392970b0ab3d8077cf126980cd6b012037b3626db585055842681f"
     },
     {
       "url": "/assets/useStarHarvest-OwgWIebS.css",
@@ -448,16 +452,16 @@
       "hash": "d1b701fc0fea83424dedb5535628b2040fd99253b2609dc3bf81e9df33025a3e"
     },
     {
-      "url": "/assets/webworkerAll-Duh_71vH.js",
-      "hash": "cf4c6438081ea0079ed3199e2cadfee881a037d25b200a3118fa2f690ddee3db"
+      "url": "/assets/webworkerAll-Bib6eDjk.js",
+      "hash": "abc37568cfb549036e9c9a07ab74bbe834bef26fc94436c8e8093f4675cf88e9"
     },
     {
       "url": "/assets/willow-wxz5uvHf.webp",
       "hash": "3b17bac359ffc881f50fa55490bf84c7cbdbd4ff986efe8b8ab302ca3d42f47d"
     },
     {
-      "url": "/assets/x-BhUIuW-F.js",
-      "hash": "3111c1abb1b158c666846e54e359a8ec9928e0ba3eaffe1ef3c126ff672b98ed"
+      "url": "/assets/x-CdqkFBFw.js",
+      "hash": "057ce83b069e19dc9e263ff89dbf95a872afeca147c882dbbb34d2e714a0f6d2"
     },
     {
       "url": "/favicon.svg",
@@ -669,7 +673,7 @@
     },
     {
       "url": "/index.html",
-      "hash": "9063422f675448244ca9ae3a7b446be73f777b94e8ef849906f16d072399bdeb"
+      "hash": "1e1d0d263ad5e90c6fda69afdd13c5fa86a3731b40b369998e10b42ee78b7fdb"
     },
     {
       "url": "/manifest.webmanifest",
