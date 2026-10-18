@@ -269,12 +269,6 @@
         "scale": 0.9
       },
       {
-        "clip": "decor-flowers-blue",
-        "x": 1480,
-        "y": 1005,
-        "scale": 0.8
-      },
-      {
         "clip": "decor-tuft-a",
         "x": 1310,
         "y": 1350
@@ -291,12 +285,6 @@
         "y": 1310
       },
       {
-        "clip": "decor-tuft-d",
-        "x": 1770,
-        "y": 995,
-        "scale": 0.8
-      },
-      {
         "clip": "decor-flowers-daisy",
         "x": 2120,
         "y": 1345,
@@ -309,12 +297,6 @@
         "y": 1290,
         "scale": 0.8,
         "flip": true
-      },
-      {
-        "clip": "decor-bush-b",
-        "x": 1245,
-        "y": 1150,
-        "scale": 0.85
       },
       {
         "clip": "decor-bush-a",

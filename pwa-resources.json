@@ -1,7 +1,7 @@
 {
   "base": "/",
   "prefix": "quiet-garden-pwa:/:",
-  "revision": "40fe88de53a6d98a8f60",
+  "revision": "d235af60d1427bd467da",
   "resources": [
     {
       "url": "/assets/1f319-CaX6bsG-.svg",
@@ -148,64 +148,64 @@
       "hash": "35ba477f2cd01990a2712384b2ad5c2f9b0ec1def9ad94aaec139ed27f5286cf"
     },
     {
-      "url": "/assets/App-RTsZj6Ik.js",
-      "hash": "65c28703734f439b6874ea5ae56d9e47a9be6b495943cb1d4158dac34cc5bd83"
+      "url": "/assets/App-_T90KCnr.js",
+      "hash": "f2522e6e1da0d6797750cc274d9c6a000b5fe9b651c0879bd8a9c29be6f8f926"
     },
     {
       "url": "/assets/App-qSZ0SoTw.css",
       "hash": "781eedc54668d3761af5b7b5c3430f58beecc56c3db05d8d040b8dd5c959e1dc"
     },
     {
-      "url": "/assets/BitmapFont-BphrSvVW.js",
-      "hash": "c0e0bdc6656a7ce4a31188d401b23f0a6073a035ec472cf52568fda1f7cf654f"
+      "url": "/assets/BitmapFont-CetQGdyl.js",
+      "hash": "a7d174c87010ff775b454e1ecb565184e8bcddf1d12bcb4d27b80f256cb4029f"
     },
     {
-      "url": "/assets/BufferResource-2aa1pQpT.js",
-      "hash": "44c9236dcc6496ef7076f1bad76f0c02f48137b66a0a014e42083f4479f3ca83"
+      "url": "/assets/BufferResource-CsmOB65w.js",
+      "hash": "eae4754ad10a9634ac75440eb8c4711fc8570440cb21808af9b9eba1b3315cd9"
     },
     {
-      "url": "/assets/CanvasPool-D8TtwRZy.js",
-      "hash": "2b061e860514fc3470a4a5c2c3185aed58cfdab30bbb43f623b0dccb30024d5a"
+      "url": "/assets/CanvasPool-Cx_uqB4O.js",
+      "hash": "9fd92de8085bdb8f3bccec70639fad0926956910726eae323285449e612a8fa0"
     },
     {
-      "url": "/assets/CanvasRenderer-C2qMMNu0.js",
-      "hash": "cba18a5ccb2d2965b712e18dac5bee0479543152daf74b45e4d940eecfff5e35"
+      "url": "/assets/CanvasRenderer-BBTEgFy1.js",
+      "hash": "c9c500748555396fcbb7b332d08cbf07715d7f19fb159d1e2db700debd3d1241"
     },
     {
-      "url": "/assets/CloudHint-DDrccqJV.js",
-      "hash": "847be3ad22f039e432ff8b47693e4fd84ad9a71766fd032d9d917c2c87bc8ee5"
+      "url": "/assets/CloudHint-BJEFeozZ.js",
+      "hash": "4d992bd06fa1ed6b431f0877d2bde39ddfd9c11edaf3d1fede186ed1961a88d7"
     },
     {
-      "url": "/assets/Filter-DzLy_b4O.js",
-      "hash": "b85c3a902174b15c1bbc0aeb90a1fed0d451a524d079788ce7e881d061c59e20"
+      "url": "/assets/Filter-BKglVmGK.js",
+      "hash": "a0ab6ce09b67c939865d8e6e62a23c49b202f6d17a3bbf0be8c5d13def72f45d"
     },
     {
       "url": "/assets/Garden2dEngineView-Cl-TSnlo.css",
       "hash": "d6d9f8317fea4f6fa10fb8e88772aef71c25f926d8499d4af3b26543fea5e925"
     },
     {
-      "url": "/assets/Garden2dEngineView-Xbq_ddw2.js",
-      "hash": "3368b68ec09d2eb5a346734d5849dafeba31227ce97c2b2bb0ce96f7954bda44"
+      "url": "/assets/Garden2dEngineView-Dt6goU0x.js",
+      "hash": "41614c728b7f5f2c57e3694dbf665e5fae78d1201968b926809f7b0f0280ce4f"
     },
     {
-      "url": "/assets/RenderTargetSystem-CbGdi6N3.js",
-      "hash": "f3ac14f7abf50512c387f939cbe70e753b80ff7543154d88985e29c858263cf1"
+      "url": "/assets/RenderTargetSystem-B96OoSyT.js",
+      "hash": "6a3fd7bd4edab4e38566dfbc4674e1859840f193c88d308e3382e71bda593e21"
     },
     {
-      "url": "/assets/RostokScene-8dFo-o5w.js",
-      "hash": "09d3e299e82832709a856081d3df1eadc721941792cc3febb5ce9d87cc5594cb"
+      "url": "/assets/RostokScene-CSHn95X_.js",
+      "hash": "67547d66c12dd146c2884f39f53437c3680ce91ac2653cd285ec9addf73c68ce"
     },
     {
       "url": "/assets/RostokScene-mPhEZ_G8.css",
       "hash": "fc7a17b3edaac4719da17b9c07ff201390c994806b804fa52bdce46c6a1c3f1c"
     },
     {
-      "url": "/assets/WebGLRenderer-Bf2wstGD.js",
-      "hash": "9902bb3fdddc29b3347f2d448678547ca2649fae7125eb418b2e827d32bdced8"
+      "url": "/assets/WebGLRenderer-DVm4Vutl.js",
+      "hash": "b85d2a30bfc1b1562a048161b9c8b5bcc484354dac39a7b957af1be59b0b3349"
     },
     {
-      "url": "/assets/WebGPURenderer-o3fUDWmi.js",
-      "hash": "ae86cc1659fed2b7d4781170b4fb679863d5449387b293942122772b0ebeec40"
+      "url": "/assets/WebGPURenderer-c7qadFcX.js",
+      "hash": "dde801a5d58df7d4b093431400886707a5a13f52b89dded9a4bd2cdbe2b2237d"
     },
     {
       "url": "/assets/apple-Bt5vtSUZ.webp",
@@ -220,8 +220,8 @@
       "hash": "e325bcac14a628fc7dc097b8b106b3109733a7cd533ae45825c0f52344af6c91"
     },
     {
-      "url": "/assets/browserAll-ByyEVV4U.js",
-      "hash": "15258e103ebfb6daf8892112df97ed2e6b8df46562205af671cec73b38b0fe45"
+      "url": "/assets/browserAll-DjeMySi3.js",
+      "hash": "f63b99a0d85298715fa6876b0b76bcdb2eb18dd2b94c1c4ef7aebae53c426d38"
     },
     {
       "url": "/assets/brush-teeth-F0wP4dhV.jpg",
@@ -236,12 +236,12 @@
       "hash": "d3e46cfb9cdcb67ad17e5997b0e241f311f02c42fcac91c20b4a3d11734aca0b"
     },
     {
-      "url": "/assets/download-BfpLdikM.js",
-      "hash": "169003feefc63d3b7883f7fe04c384df2675828c08e543e50f65c4db90bc8663"
+      "url": "/assets/download-BDXHd1S1.js",
+      "hash": "b7105e1e15a1c90c447b579faa595266fb34e9d18b1948d8881c2d93bd46edeb"
     },
     {
-      "url": "/assets/droplets-B3igqYD5.js",
-      "hash": "8b3ea107d12b6d9568e02d1618efb905dd0445e9b9fcf9f08aa5f085efd504cb"
+      "url": "/assets/droplets-cskT_xjc.js",
+      "hash": "cdad79c6f2df9310fcedd1d8b33aafebf3e6cf09face45567da5ee99d373ba00"
     },
     {
       "url": "/assets/eat-meal-DHwVKhqY.jpg",
@@ -284,20 +284,20 @@
       "hash": "936e46f6a686b7af08adc06298a08db0aeab78fe2a76d44c076c544fad629a5b"
     },
     {
-      "url": "/assets/index-BahsQsi5.js",
-      "hash": "12fd128c4b98cb5979de2411afe4d58f276e6722f249e5c841be654926997177"
+      "url": "/assets/index-8a8xz6Or.js",
+      "hash": "1346c49d948751a1ce8f5265e5dfda8ad4506edca617c2d9dbb9e931abb14258"
     },
     {
-      "url": "/assets/index-BbZpJApC.js",
-      "hash": "1b58f51d97e8bdac58a8bb83faa14905f278b2746781cbf78739e18674fed16f"
+      "url": "/assets/index-BGlCSgJH.js",
+      "hash": "3e832fc5ac40a0f02de51aac2e2e317d6a04ddb8e08f22d9e62921e416a25cec"
     },
     {
-      "url": "/assets/index-CpQR7T6K.js",
-      "hash": "652db9d211c239ba0e4eda4ec05d0866ff6a5d409df7a962b180e3226b46425e"
+      "url": "/assets/index-C6VnbJH0.js",
+      "hash": "07558220bf337dd722f4d04b9bb627df792d529d86b2b755cec7e2c8ab68b166"
     },
     {
-      "url": "/assets/leaf-B017_jO5.js",
-      "hash": "848ccf1a0298a7d33bcf498628cf3f3352549b6a535e940ee79dc673dbfdafa0"
+      "url": "/assets/leaf-CK2gxms5.js",
+      "hash": "3705c0809ac7cd90c6f4ac92ccc230f3f25c264decb01abc37cbda0a9e0dd1a6"
     },
     {
       "url": "/assets/linden-B2ymMD4Z.webp",
@@ -308,8 +308,8 @@
       "hash": "42eef3aaf768fc0993d7f24f66febbc7f65c91d5f63c5eb0dd7537d8a5a4d761"
     },
     {
-      "url": "/assets/model-BEcOFOl4.js",
-      "hash": "1f42f759a458876373f2ff3bab2d6947f1eec944baab59afb8b4ed762c5a9145"
+      "url": "/assets/model-DqMBZjgT.js",
+      "hash": "3b4e65889f29e6a5546ce31c79701db8f9c913bd9b2298c55c4862d5fd501311"
     },
     {
       "url": "/assets/mushrooms-B4NP52pu.webp",
@@ -320,8 +320,8 @@
       "hash": "3bbfeb649b7c9f4f24770c2e53368bc78b9f6b3a406b11a92f08cb4996b47cb8"
     },
     {
-      "url": "/assets/package-Dia71dq1.js",
-      "hash": "2547a334d39aae6e4b98f389758557477c351ff1c2273b05d82e368e41d2fb0e"
+      "url": "/assets/package-B6ZfgJRB.js",
+      "hash": "c40f9c763d0b7db78a2e2f6190a171d000d50eb84668fc1b963dd6aeb3261829"
     },
     {
       "url": "/assets/pageTransitionChoice-tv59eJUM.js",
@@ -360,36 +360,36 @@
       "hash": "935bcbc0e4f328ee838bc723135c0e3a095588cc4748e76c2ffce5a98c0d3faf"
     },
     {
-      "url": "/assets/rotate-ccw-BVaIkAwp.js",
-      "hash": "9eb4c22fe5423cc68ef449de4ea3f3768f6860517999fffdc55005f6c5c1b165"
+      "url": "/assets/rotate-ccw-B7hTKVR5.js",
+      "hash": "126d22f87ad783277fa5ea734443b667c540621aa683b94a95f35bd2faa70e38"
     },
     {
-      "url": "/assets/sprout-BZApd0uy.js",
-      "hash": "b8eee0cfa853ea09a198b6f172d5806cc13ffb0ee9b1cedb9fafda0f812fcb1b"
+      "url": "/assets/sprout-DSKJRRor.js",
+      "hash": "40ace7120969dd317f93640574729742000f71eb10db7998ccba9f5071c53d5e"
     },
     {
       "url": "/assets/squirrel-DN9uliaE.webp",
       "hash": "70c02f7a1d4df41aeb1187385543d153dec4ea77ed7614704ce64f80a6df5aaf"
     },
     {
-      "url": "/assets/stage-4hez1_61.js",
-      "hash": "37e2fd2e78c3cd4acec8f0b43bd7e3b4cf28cd6fb7bd33257a1c652aedd344bf"
+      "url": "/assets/stage-Cy5X8HlL.js",
+      "hash": "6a8e9b7b32213b338c149cc550f0b64a76b135935d5215580e6a0f4f7caacebf"
     },
     {
-      "url": "/assets/store-BbnPa_J5.js",
-      "hash": "544ea946b57585d839991e6a495555ce062336363b82241084038e55af966b17"
+      "url": "/assets/store-BQMSmoM8.js",
+      "hash": "287e7ed7de2d75e35b8cdc0906ad38c2cbbcc255d0d5027270b601c0dc138e58"
+    },
+    {
+      "url": "/assets/stroke-BphuoUQi.js",
+      "hash": "7eb48962c655fcf8666d3a0c5e524a59f5820fc0d2e7b8257724d1fbd0f010a9"
     },
     {
       "url": "/assets/stroke-Cj-gvGkt.css",
       "hash": "47ef59815440b6471114c973cb76451e67abbe0f740ff268e9de16c548de7a3e"
     },
     {
-      "url": "/assets/stroke-DfX4mNpJ.js",
-      "hash": "7e22f63c90dfbc16bb0c6d7ad30a028fb0fb15caf5faecc77014cf73f651b3c7"
-    },
-    {
-      "url": "/assets/style-DxDVqN6K.css",
-      "hash": "1cd28aaa7244aa524daeb1d30a58e9df8b7a5d881a9cd2e846b8636d740e65ae"
+      "url": "/assets/style-DRX1V3GA.css",
+      "hash": "98620a9141351b96ca551a56dc4500da6276f180c0437602b56d8fa0ed42b9d2"
     },
     {
       "url": "/assets/time-day-Ca6ZLQhl.jpg",
@@ -436,12 +436,12 @@
       "hash": "65cc639e1aad18d9bd11a13ea769be20e667082db93b69ae48924c7694add61d"
     },
     {
-      "url": "/assets/useRostokTransition-C9Blej2f.js",
-      "hash": "794306b1b0ae7cde623d640fc26edf1dd508d22767fc650fb982292066777068"
+      "url": "/assets/useRostokTransition-DosumAq3.js",
+      "hash": "de04d710b7c7c084903d1edb48b3ce25176ff8ee3d0cc7def2d85e5c4af08573"
     },
     {
-      "url": "/assets/useStarHarvest-CN7mFqcT.js",
-      "hash": "75065347380ae166232080c693ff929ca405b9e3af4fc789533689c18261a104"
+      "url": "/assets/useStarHarvest-CWPVaMBT.js",
+      "hash": "013bb0531cbb8f5883b2b0c48d32c1d272d3fbd922001ae5bb57bd5e9109b114"
     },
     {
       "url": "/assets/useStarHarvest-OwgWIebS.css",
@@ -452,16 +452,20 @@
       "hash": "d1b701fc0fea83424dedb5535628b2040fd99253b2609dc3bf81e9df33025a3e"
     },
     {
-      "url": "/assets/webworkerAll-bM7fOrbS.js",
-      "hash": "7fbbe4d8f58b39ad0094ffc05a965f529a412a88f0d48864f10cc23e7c241942"
+      "url": "/assets/webworkerAll-ePsq_i8v.js",
+      "hash": "5b7e6c05d354fc76c3ca8cf6b1b41eeacf81b9019c7ae0650eb870f226452741"
     },
     {
       "url": "/assets/willow-wxz5uvHf.webp",
       "hash": "3b17bac359ffc881f50fa55490bf84c7cbdbd4ff986efe8b8ab302ca3d42f47d"
     },
     {
-      "url": "/assets/x-BewR4d9G.js",
-      "hash": "276dabaff62cb93c12d84e6e3165e3b1324552d703ccd6060df63041ca830aa4"
+      "url": "/assets/wreath-ring-B6ngvMRS.webp",
+      "hash": "08a6e66fc93719c535fcc6545bd13f54471c56fa5c9175e53d32874e0df54236"
+    },
+    {
+      "url": "/assets/x-BWWtHVHI.js",
+      "hash": "1e7cb4a94c92563341628592d118e3c0c6d2a206e87033b16a5957f83c777299"
     },
     {
       "url": "/favicon.svg",
@@ -569,7 +573,7 @@
     },
     {
       "url": "/garden-2d/engine/scene-game.json",
-      "hash": "5447fa7b6468c344327f324d11b3342de37630e6fc0fa888b08fc7990a47cbe0"
+      "hash": "f1e8a5d5a82dbd62f4b7cca827ccd4cdfd12e2cb1f35c54acb2cd3daf189c740"
     },
     {
       "url": "/garden-2d/engine/step2/island-edges.webp",
@@ -673,7 +677,7 @@
     },
     {
       "url": "/index.html",
-      "hash": "3de39944d66cb572cc96c49a4206d1fc2bf04d145b68e34d2ee4dee3c4a0cfca"
+      "hash": "e4faacc966082b9728260b40c009f6b8b0e6619436fa70ea22326ee491e5ecf3"
     },
     {
       "url": "/manifest.webmanifest",
