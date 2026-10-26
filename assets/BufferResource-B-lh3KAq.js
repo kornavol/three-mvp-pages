@@ -1,4 +1,4 @@
-import{w as g,h as x,j as c,u as _,B as y,k as l,E as I,m}from"./stage-DNS8QNQs.js";const M={name:"texture-bit",vertex:{header:`
+import{w as g,h as x,j as c,u as _,B as y,k as l,E as I,m}from"./stage-DMfNspwt.js";const M={name:"texture-bit",vertex:{header:`
 
         struct TextureUniforms {
             uTextureMatrix:mat3x3<f32>,
